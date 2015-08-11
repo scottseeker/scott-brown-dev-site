@@ -64,9 +64,9 @@ header .navbar-default .navbar-nav .active a:hover {
 /** Navbar Brand **/
 
 header .navbar-brand {
-  background: url(../images/wisdompetlogo.svg);
-  background-repeat: no-repeat;
-  background-position: 15px 0;
+  /*background: url(../images/sbrownlogo.svg);*/
+  /*background-repeat: no-repeat;*/
+  /*background-position: 15px center;*/
   height: auto;
 }
 
@@ -188,40 +188,40 @@ header .inbody .navbar-brand span.subhead {
   margin-bottom: 30px;
 }
 
-/** Page -- Mission **/
-#mission {
+/** Page -- summary **/
+#summary {
   background-color: #E4D29D;
   background-image: linear-gradient(to bottom, #EEF08A, #819A2D);
   border-top: 20px solid rgba(238, 200, 86, .5);
 }
 
 /** Page -- Services **/
-.service {
+.skill {
   margin: 20px 0;
   text-align: center;
 }
 
-#services img.icon {
+#skills img.icon {
   display: block;
   width: 80px;
   margin: 0 auto;
   margin-bottom: 5px;
 }
 
-#services h3 {
+#skills h3 {
   margin-bottom: 10px;
 }
 
 @media only screen
 and (min-width: 450px)
 and (max-width: 768px){
-  .service p {
+  .skill p {
     padding: 0 20%;
   }
 }
 
 /** Page -- Staff **/
-#staff {
+#experience {
   background-color: #ERD29D;
   background-image: linear-gradient(to bottom, #E4D29D, #CDAE50);
 }
