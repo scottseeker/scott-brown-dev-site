@@ -1,4 +1,6 @@
 angular.module('scottbrown',[])
-    .controller('ScottBrown', ['$scope', function($scope){
-        $scope.name = "Scott"
+    .controller('ScottBrownDev', ['$scope', function($scope){
+        var vm = this;
+        vm.name = "Scott Brown";
+        vm.title = "Developer";
 }]);

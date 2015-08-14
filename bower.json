@@ -1,0 +1,36 @@
+{
+  "name": "scott-brown-dev",
+  "version": "0.0.0",
+  "homepage": "https://github.com/scottseeker/scott-brown-dev-site",
+  "authors": [
+    "Scott Brown <scottseeker@gmail.com>"
+  ],
+  "description": "Developer resume/portfolio site for Scott Brown",
+  "main": "server.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "Developer",
+    "Scott",
+    "Brown",
+    "Web",
+    "Development",
+    "Software",
+    "Engineer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/js/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.4",
+    "prefixfree": "*",
+    "jquery": "~2.1.4"
+  }
+}

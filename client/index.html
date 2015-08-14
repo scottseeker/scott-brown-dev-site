@@ -6,11 +6,14 @@
   <title>Scott Brown Developer</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style.css">
-  <script src="js/prefixfree.min.js"></script>
+  <script src="js/libs/prefixfree/prefixfree.min.js"></script>
+  <script src="js/libs/jquery/dist/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+  <script src="js/libs/angular/angular.min.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body >
+<body ng-app="scottbrown" ng-controller="ScottBrownDev as sbdVM">
 
 <header>
   <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -22,7 +25,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="#featured"><h1>Scott Brown <span class="subhead">Developer</span></h1></a>
+        <a class="navbar-brand" href="#featured"><h1>{{sbdVM.name}} <span class="subhead">{{sbdVM.title}}</span></h1></a>
       </div><!-- navbar-header -->
       <div class="collapse navbar-collapse" id="collapse">
         <ul class="nav navbar-nav navbar-right">
@@ -64,7 +67,7 @@
       <h2>Summary</h2>     
       <div class="row">
         <p class='col-md-5 col-md-offset-1'>Mr. Brown is a software engineer with 13 years professional experience. He has been involved in all stages of the software development life cycle. Primarily a Java back-end services and web front-end developer, Mr. Brown has a passion for learning new technologies and applying them to the problems at hand.</p>
-        <p class='col-md-5'>Most recently is working with AngularJS, Bootstrap, and SASS for creating responsive web sites.  </p>
+        <p class='col-md-5'>Most recently he has been working with AngularJS, Bootstrap, and SASS for creating responsive web sites.  </p>
       </div>
       
     </div><!-- content container -->
@@ -77,7 +80,7 @@
         <article class="skill col-md-4 col-sm-6 col-xs-12">
           <img class="icon" src="images/java.svg" alt="java">
           <h3>Java Services</h3>
-          <p>Develops back-end SOAP and REST services. JAX-WS, JAX-RS, Spring, OSGi.</p>
+          <p>Develops back-end SOAP and REST services using JAX-WS/JAX-RS, Spring, OSGi and other technologies.</p>
         </article>
 
         <article class="skill col-md-4 col-sm-6 col-xs-12">
@@ -210,7 +213,7 @@
       <div class="col-sm-6">
         <nav class="navbar navbar-default" role="navigation">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="mailto:scottseeker@gmail.com?subject=Contacting from developer site">Contact Me</a></li>
+            <li><a href="https://www.linkedin.com/in/engineerscott">Contact Me</a></li>
           </ul>
         </nav>        
       </div><!-- col-sm-6 -->
@@ -218,8 +221,7 @@
   </div><!-- content container -->
 </footer>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="js/app.js"></script>
 <script src="js/myscript.js"></script>
 </body>
 </html>
