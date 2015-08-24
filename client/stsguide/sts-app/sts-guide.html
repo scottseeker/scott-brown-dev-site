@@ -1,0 +1,46 @@
+<!-- sts guide main container -->
+<div id="sts-guide">
+
+    <!-- time bar view -->
+    <div timebar data="guideVm.guideData" id="timebar-view">
+
+    </div>
+    <!--/time bar view -->
+
+    <!-- guide wrapper -->
+    <div id="guide-wrapper">
+        <!-- channels view -->
+        <div id="channels-view">
+            <ul channels id="channels">
+                <li channel class="channel" ng-repeat="channel in guideVm.guideData"></li>
+            </ul>
+        </div>
+        <!--/channels view -->
+
+        <!-- programs view -->
+        <div id="programs-view">
+            <ul id="programs">
+                <li program class="program" ng-repeat="channel in guideVm.guideData" ></li>
+            </ul>
+        </div>
+        <!--/programs view -->
+    </div>
+    <!--/guide wrapper -->
+
+    <!-- guide utils -->
+    <div id="guide-utils">
+        <button id="guide-now"></button>
+        <button class="guide-left"></button>
+        <button class="guide-right"></button>
+        <select id="guide-sort"></select>
+    </div>
+    <!--/guide utils -->
+
+    <!-- guide modal -->
+    <div id="guide-modal">
+        <button id="guide-modal-close"></button>
+    </div>
+    <!--/guide modal -->
+
+</div>
+<!--/sts guide main container -->

@@ -1,0 +1,13 @@
+/*
+temporary outermost container
+*/
+/* line 4, ../scss/outer-container.scss */
+#outer-container {
+  width: 88%;
+  height: 88%;
+  position: relative;
+  margin: 10px auto;
+  display: block;
+  overflow: hidden;
+  border: 1px solid red;
+}

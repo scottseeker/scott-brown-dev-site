@@ -1,0 +1,13 @@
+/*
+temporary outermost container
+*/
+#outer-container{
+    //this div is only used for testing purposes. It will not be present in the final version.
+    width: 88%;
+    height: 88%;
+    position:relative;
+    margin: 10px auto;
+    display: block;
+    overflow: hidden;
+    border: 1px solid red;
+}

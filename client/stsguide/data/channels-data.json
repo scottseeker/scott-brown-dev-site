@@ -1,0 +1,4922 @@
+[
+  {
+    "tsp_channel_id": "55c36fc931bfc97e9a8a228d",
+    "channel_name": "CNN",
+    "channel_number": 79,
+    "category": [
+      "reality",
+      "drama",
+      "adventure"
+    ],
+    "description": "Irure occaecat eu voluptate amet consectetur velit tempor ad. Pariatur Lorem occaecat quis ullamco culpa officia. Consequat qui dolore cupidatat proident nulla nostrud amet laboris proident ut. Amet fugiat esse nisi duis duis deserunt sit aliqua. Voluptate tempor in duis occaecat do cupidatat aliquip adipisicing in nisi anim sint.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/CNN.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc98c25d10a23f6a6a7",
+          "start_time": 0,
+          "duration": 86,
+          "lang": "en",
+          "title": "The Story of Queen Weber"
+        },
+        {
+          "event_id": "55c36fc985c971d71c3d8472",
+          "start_time": 120,
+          "duration": 76,
+          "lang": "en",
+          "title": "The Betrayal of Dorsey Cobb"
+        },
+        {
+          "event_id": "55c36fc95b058be935640802",
+          "start_time": 240,
+          "duration": 85,
+          "lang": "en",
+          "title": "The Adventures of Ella Luna"
+        },
+        {
+          "event_id": "55c36fc96ae06fdd2c06c116",
+          "start_time": 360,
+          "duration": 105,
+          "lang": "en",
+          "title": "The Mishaps of Hardin Dixon"
+        },
+        {
+          "event_id": "55c36fc9be1a227266931c5c",
+          "start_time": 480,
+          "duration": 119,
+          "lang": "en",
+          "title": "The Life of Wilder Sweeney"
+        },
+        {
+          "event_id": "55c36fc9ac4a8b9c3b53e9c3",
+          "start_time": 600,
+          "duration": 76,
+          "lang": "en",
+          "title": "The Betrayal of Mendez Soto"
+        },
+        {
+          "event_id": "55c36fc96ec802d53f53b906",
+          "start_time": 720,
+          "duration": 73,
+          "lang": "en",
+          "title": "The Adventures of Stafford Snyder"
+        },
+        {
+          "event_id": "55c36fc993e53bd8ea1d608f",
+          "start_time": 840,
+          "duration": 61,
+          "lang": "en",
+          "title": "The Mishaps of Aurelia Mercer"
+        },
+        {
+          "event_id": "55c36fc9c419478fb4bec48a",
+          "start_time": 960,
+          "duration": 113,
+          "lang": "en",
+          "title": "The Life of Kristin Barker"
+        },
+        {
+          "event_id": "55c36fc96fe1c74ebaa38cb9",
+          "start_time": 1080,
+          "duration": 80,
+          "lang": "en",
+          "title": "The Story of Hoover Randall"
+        },
+        {
+          "event_id": "55c36fc921c250af21611361",
+          "start_time": 1200,
+          "duration": 95,
+          "lang": "en",
+          "title": "The Story of Jimenez Mccarthy"
+        },
+        {
+          "event_id": "55c36fc9ee5e44d7cb8f0f43",
+          "start_time": 1320,
+          "duration": 79,
+          "lang": "en",
+          "title": "The Mishaps of Ora Maldonado"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc982dd5b206d684dda",
+    "channel_name": "FOX",
+    "channel_number": 231,
+    "category": [
+      "adventure",
+      "drama",
+      "adventure"
+    ],
+    "description": "Deserunt mollit deserunt duis mollit in cillum ad tempor aute et mollit minim. Elit elit culpa anim non aliqua eu. Reprehenderit ad in do eu laborum in qui ullamco exercitation quis ex cupidatat.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/FOX.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9ec45418a47fadba0",
+          "start_time": 0,
+          "duration": 101,
+          "lang": "en",
+          "title": "The Adventures of Benita Whitaker"
+        },
+        {
+          "event_id": "55c36fc96d690fa71de33168",
+          "start_time": 120,
+          "duration": 105,
+          "lang": "en",
+          "title": "The Betrayal of Mays Herrera"
+        },
+        {
+          "event_id": "55c36fc9ec98cb1796569046",
+          "start_time": 240,
+          "duration": 89,
+          "lang": "en",
+          "title": "The Betrayal of Reyes Hatfield"
+        },
+        {
+          "event_id": "55c36fc9707045694ef0728e",
+          "start_time": 360,
+          "duration": 79,
+          "lang": "en",
+          "title": "The Mishaps of Adams Lawrence"
+        },
+        {
+          "event_id": "55c36fc94a3b8511710faeb6",
+          "start_time": 480,
+          "duration": 113,
+          "lang": "en",
+          "title": "The Adventures of Mullins Bell"
+        },
+        {
+          "event_id": "55c36fc9c343646cb7bf424f",
+          "start_time": 600,
+          "duration": 86,
+          "lang": "en",
+          "title": "The Adventures of Thomas Joyner"
+        },
+        {
+          "event_id": "55c36fc9cbf7e106fe527375",
+          "start_time": 720,
+          "duration": 72,
+          "lang": "en",
+          "title": "The Mishaps of Walters Vinson"
+        },
+        {
+          "event_id": "55c36fc9860de729a456527d",
+          "start_time": 840,
+          "duration": 97,
+          "lang": "en",
+          "title": "The Adventures of Mollie Logan"
+        },
+        {
+          "event_id": "55c36fc9b6390c2202506c98",
+          "start_time": 960,
+          "duration": 89,
+          "lang": "en",
+          "title": "The Betrayal of Santiago Woodard"
+        },
+        {
+          "event_id": "55c36fc9da463da09524bcec",
+          "start_time": 1080,
+          "duration": 107,
+          "lang": "en",
+          "title": "The Story of Wilma Jenkins"
+        },
+        {
+          "event_id": "55c36fc955a1abc5e936f23b",
+          "start_time": 1200,
+          "duration": 73,
+          "lang": "en",
+          "title": "The Mishaps of Catherine Delgado"
+        },
+        {
+          "event_id": "55c36fc99a2f60f6aeb3f76e",
+          "start_time": 1320,
+          "duration": 120,
+          "lang": "en",
+          "title": "The Mishaps of Suarez Madden"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc987d5c5ba243a4a53",
+    "channel_name": "APL",
+    "channel_number": 132,
+    "category": [
+      "sports",
+      "sports",
+      "reality"
+    ],
+    "description": "Minim duis anim cillum eu veniam id minim eu pariatur est consectetur incididunt nostrud. Consectetur cupidatat laborum reprehenderit amet. Excepteur occaecat velit aliquip laborum in excepteur. Occaecat veniam ut in occaecat laborum ullamco ea culpa incididunt est eu. Commodo anim dolore fugiat consequat. Magna ea enim nostrud quis eu adipisicing anim magna.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/APL.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9e0b10bce43c7b3cb",
+          "start_time": 0,
+          "duration": 101,
+          "lang": "en",
+          "title": "The Mishaps of Flossie Dale"
+        },
+        {
+          "event_id": "55c36fc9909b0fbc3de02852",
+          "start_time": 120,
+          "duration": 94,
+          "lang": "en",
+          "title": "The Story of Fry Cardenas"
+        },
+        {
+          "event_id": "55c36fc91b51b274ee10000d",
+          "start_time": 240,
+          "duration": 107,
+          "lang": "en",
+          "title": "The Betrayal of Luisa Nixon"
+        },
+        {
+          "event_id": "55c36fc95d2869a374d06975",
+          "start_time": 360,
+          "duration": 114,
+          "lang": "en",
+          "title": "The Life of Mari Herman"
+        },
+        {
+          "event_id": "55c36fc9cbb261c9c8be6c03",
+          "start_time": 480,
+          "duration": 76,
+          "lang": "en",
+          "title": "The Story of Miranda Hutchinson"
+        },
+        {
+          "event_id": "55c36fc99f8745eaf2d5d1b8",
+          "start_time": 600,
+          "duration": 118,
+          "lang": "en",
+          "title": "The Life of Bowen Noel"
+        },
+        {
+          "event_id": "55c36fc9e81e22b1b0a49f48",
+          "start_time": 720,
+          "duration": 104,
+          "lang": "en",
+          "title": "The Adventures of Rosalie Mills"
+        },
+        {
+          "event_id": "55c36fc94204a473c61e295d",
+          "start_time": 840,
+          "duration": 72,
+          "lang": "en",
+          "title": "The Story of Flora Kent"
+        },
+        {
+          "event_id": "55c36fc9d7c2071ad8396b2b",
+          "start_time": 960,
+          "duration": 100,
+          "lang": "en",
+          "title": "The Life of Boyer Albert"
+        },
+        {
+          "event_id": "55c36fc95d0d328137d06db6",
+          "start_time": 1080,
+          "duration": 82,
+          "lang": "en",
+          "title": "The Mishaps of Meyers Bray"
+        },
+        {
+          "event_id": "55c36fc9e5a2ee40b74d470b",
+          "start_time": 1200,
+          "duration": 61,
+          "lang": "en",
+          "title": "The Story of Duffy Cochran"
+        },
+        {
+          "event_id": "55c36fc9c3a9e5ef6ba5fef1",
+          "start_time": 1320,
+          "duration": 84,
+          "lang": "en",
+          "title": "The Life of Dollie Hinton"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc927970d16f15246c6",
+    "channel_name": "NICK",
+    "channel_number": 121,
+    "category": [
+      "drama",
+      "action",
+      "drama"
+    ],
+    "description": "Veniam laborum consequat velit dolor. Quis do magna ut proident laborum do quis qui anim qui sit nostrud. Culpa cillum mollit esse ullamco deserunt occaecat amet labore veniam amet minim occaecat qui. Ullamco officia minim officia do anim ipsum est. Lorem in adipisicing id sit fugiat reprehenderit dolore cillum. Ea eu aute pariatur eiusmod sunt Lorem officia consectetur aliqua pariatur mollit ipsum in. Nisi sunt officia est esse ea occaecat consequat.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/NICK.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc927a8394a5421d73b",
+          "start_time": 0,
+          "duration": 92,
+          "lang": "en",
+          "title": "The Story of Bolton Massey"
+        },
+        {
+          "event_id": "55c36fc961bae7ae5bc98db7",
+          "start_time": 120,
+          "duration": 72,
+          "lang": "en",
+          "title": "The Adventures of Pratt Montoya"
+        },
+        {
+          "event_id": "55c36fc97e3210dc2cb4765a",
+          "start_time": 240,
+          "duration": 84,
+          "lang": "en",
+          "title": "The Life of Richardson Wilkins"
+        },
+        {
+          "event_id": "55c36fc962db364aa9f7e52b",
+          "start_time": 360,
+          "duration": 112,
+          "lang": "en",
+          "title": "The Story of Lancaster Shelton"
+        },
+        {
+          "event_id": "55c36fc993a878fac8cd3de7",
+          "start_time": 480,
+          "duration": 98,
+          "lang": "en",
+          "title": "The Story of Kelley Gomez"
+        },
+        {
+          "event_id": "55c36fc9dc6594e36634a06c",
+          "start_time": 600,
+          "duration": 82,
+          "lang": "en",
+          "title": "The Story of Moon Russell"
+        },
+        {
+          "event_id": "55c36fc972968a3e4e968c62",
+          "start_time": 720,
+          "duration": 118,
+          "lang": "en",
+          "title": "The Betrayal of Luella Chaney"
+        },
+        {
+          "event_id": "55c36fc9c2b0ee445d3bb3f0",
+          "start_time": 840,
+          "duration": 108,
+          "lang": "en",
+          "title": "The Life of Janette Anthony"
+        },
+        {
+          "event_id": "55c36fc9d34f6f5bc563387a",
+          "start_time": 960,
+          "duration": 75,
+          "lang": "en",
+          "title": "The Betrayal of Melinda Battle"
+        },
+        {
+          "event_id": "55c36fc994c11f605c308f27",
+          "start_time": 1080,
+          "duration": 120,
+          "lang": "en",
+          "title": "The Story of Winifred David"
+        },
+        {
+          "event_id": "55c36fc95051dcff9e8f3504",
+          "start_time": 1200,
+          "duration": 85,
+          "lang": "en",
+          "title": "The Life of Kirk Castillo"
+        },
+        {
+          "event_id": "55c36fc9b861cb2a73d89ee0",
+          "start_time": 1320,
+          "duration": 92,
+          "lang": "en",
+          "title": "The Life of Roberson Roy"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc987042a9e94ad908c",
+    "channel_name": "AMC",
+    "channel_number": 31,
+    "category": [
+      "sports",
+      "reality",
+      "drama"
+    ],
+    "description": "Nostrud tempor dolor enim fugiat in id reprehenderit aliqua non eu officia quis. Qui dolor in incididunt eu pariatur. Veniam reprehenderit ipsum magna est aliquip deserunt labore minim excepteur. Lorem nisi commodo ipsum ad. Qui adipisicing mollit deserunt nisi exercitation. Sit commodo consectetur labore nostrud adipisicing cupidatat. Laborum anim in sunt consequat voluptate adipisicing culpa officia voluptate ex ea consequat.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/AMC.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9508ad9ee5ba8592d",
+          "start_time": 0,
+          "duration": 65,
+          "lang": "en",
+          "title": "The Story of Sheila Eaton"
+        },
+        {
+          "event_id": "55c36fc919ee70867f988926",
+          "start_time": 120,
+          "duration": 117,
+          "lang": "en",
+          "title": "The Life of Moran Cline"
+        },
+        {
+          "event_id": "55c36fc9dca92720c5786bcb",
+          "start_time": 240,
+          "duration": 114,
+          "lang": "en",
+          "title": "The Life of Finch Casey"
+        },
+        {
+          "event_id": "55c36fc9809655e9d20f01ba",
+          "start_time": 360,
+          "duration": 110,
+          "lang": "en",
+          "title": "The Mishaps of Sherry Allen"
+        },
+        {
+          "event_id": "55c36fc9e4ba88f0e1dcb352",
+          "start_time": 480,
+          "duration": 112,
+          "lang": "en",
+          "title": "The Betrayal of Neal Mccarty"
+        },
+        {
+          "event_id": "55c36fc912849fc63a6e6cd6",
+          "start_time": 600,
+          "duration": 94,
+          "lang": "en",
+          "title": "The Betrayal of Craig Harrell"
+        },
+        {
+          "event_id": "55c36fc9cfac822fb4509040",
+          "start_time": 720,
+          "duration": 107,
+          "lang": "en",
+          "title": "The Betrayal of Elva Hess"
+        },
+        {
+          "event_id": "55c36fc96a04c3a6847c608a",
+          "start_time": 840,
+          "duration": 94,
+          "lang": "en",
+          "title": "The Betrayal of Estelle Rosario"
+        },
+        {
+          "event_id": "55c36fc9f8073977be482cf8",
+          "start_time": 960,
+          "duration": 105,
+          "lang": "en",
+          "title": "The Life of Belinda Lloyd"
+        },
+        {
+          "event_id": "55c36fc9d4551ccec370889e",
+          "start_time": 1080,
+          "duration": 109,
+          "lang": "en",
+          "title": "The Life of Hayden Mcknight"
+        },
+        {
+          "event_id": "55c36fc9e2130b5ffeada7bf",
+          "start_time": 1200,
+          "duration": 120,
+          "lang": "en",
+          "title": "The Mishaps of Baxter Stephenson"
+        },
+        {
+          "event_id": "55c36fc9baf67ac880d79c26",
+          "start_time": 1320,
+          "duration": 63,
+          "lang": "en",
+          "title": "The Story of Samantha Orr"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc9c713d1ffdc8ebb55",
+    "channel_name": "APL",
+    "channel_number": 39,
+    "category": [
+      "sports",
+      "sports",
+      "adventure"
+    ],
+    "description": "Laboris aute sit duis ea ex deserunt tempor in reprehenderit elit qui laborum minim. Cupidatat eiusmod id aliquip fugiat veniam eiusmod exercitation reprehenderit consequat ut in deserunt magna. Elit magna dolore nulla esse.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/APL.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9f86368734b8ae6e4",
+          "start_time": 0,
+          "duration": 114,
+          "lang": "en",
+          "title": "The Life of Downs Anderson"
+        },
+        {
+          "event_id": "55c36fc9babe986d4a8ffbe4",
+          "start_time": 120,
+          "duration": 74,
+          "lang": "en",
+          "title": "The Adventures of Mccarty Odom"
+        },
+        {
+          "event_id": "55c36fc92c3cecfaf76514eb",
+          "start_time": 240,
+          "duration": 66,
+          "lang": "en",
+          "title": "The Life of Carol Booth"
+        },
+        {
+          "event_id": "55c36fc99d96296edec8d0aa",
+          "start_time": 360,
+          "duration": 82,
+          "lang": "en",
+          "title": "The Life of Jennifer Newton"
+        },
+        {
+          "event_id": "55c36fc916bacc42898a37af",
+          "start_time": 480,
+          "duration": 61,
+          "lang": "en",
+          "title": "The Life of Ellis Hansen"
+        },
+        {
+          "event_id": "55c36fc985883825e929ddbd",
+          "start_time": 600,
+          "duration": 113,
+          "lang": "en",
+          "title": "The Story of Gordon Bates"
+        },
+        {
+          "event_id": "55c36fc9e7427f447338291a",
+          "start_time": 720,
+          "duration": 104,
+          "lang": "en",
+          "title": "The Life of Spencer Justice"
+        },
+        {
+          "event_id": "55c36fc9f9365959b4b667e3",
+          "start_time": 840,
+          "duration": 117,
+          "lang": "en",
+          "title": "The Betrayal of Odonnell Rasmussen"
+        },
+        {
+          "event_id": "55c36fc9aad79fcb82c0781b",
+          "start_time": 960,
+          "duration": 72,
+          "lang": "en",
+          "title": "The Adventures of Rita Stokes"
+        },
+        {
+          "event_id": "55c36fc9fda82ea38ec34ee7",
+          "start_time": 1080,
+          "duration": 71,
+          "lang": "en",
+          "title": "The Betrayal of Vega Zimmerman"
+        },
+        {
+          "event_id": "55c36fc9708a73e8676fa43b",
+          "start_time": 1200,
+          "duration": 99,
+          "lang": "en",
+          "title": "The Life of Olsen Holt"
+        },
+        {
+          "event_id": "55c36fc96432f6536acd591d",
+          "start_time": 1320,
+          "duration": 64,
+          "lang": "en",
+          "title": "The Adventures of Love Decker"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc98580637ae29473ff",
+    "channel_name": "DIS",
+    "channel_number": 61,
+    "category": [
+      "reality",
+      "sports",
+      "action"
+    ],
+    "description": "Reprehenderit nulla ad in aliquip deserunt commodo elit. Et excepteur sit ea laboris ea aute velit amet Lorem labore elit ullamco anim. Consectetur officia cillum tempor nulla do mollit incididunt aliqua velit.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/DIS.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9c884b9ac2a437313",
+          "start_time": 0,
+          "duration": 64,
+          "lang": "en",
+          "title": "The Betrayal of Jenny Cox"
+        },
+        {
+          "event_id": "55c36fc9a0d4e3a3fffd2b1b",
+          "start_time": 120,
+          "duration": 66,
+          "lang": "en",
+          "title": "The Adventures of Janelle Best"
+        },
+        {
+          "event_id": "55c36fc9ffb685c46a17bf60",
+          "start_time": 240,
+          "duration": 61,
+          "lang": "en",
+          "title": "The Adventures of Espinoza Burt"
+        },
+        {
+          "event_id": "55c36fc9d2083ccc0c263cf8",
+          "start_time": 360,
+          "duration": 96,
+          "lang": "en",
+          "title": "The Mishaps of Frances Shields"
+        },
+        {
+          "event_id": "55c36fc921e4f921efe2bbbe",
+          "start_time": 480,
+          "duration": 112,
+          "lang": "en",
+          "title": "The Story of Holloway Vincent"
+        },
+        {
+          "event_id": "55c36fc999e4af6bbb91a815",
+          "start_time": 600,
+          "duration": 107,
+          "lang": "en",
+          "title": "The Mishaps of Marie Baird"
+        },
+        {
+          "event_id": "55c36fc9da3037ed70c1a344",
+          "start_time": 720,
+          "duration": 114,
+          "lang": "en",
+          "title": "The Life of Winters Clemons"
+        },
+        {
+          "event_id": "55c36fc980ce5cc7c5179fc9",
+          "start_time": 840,
+          "duration": 88,
+          "lang": "en",
+          "title": "The Adventures of Hickman Travis"
+        },
+        {
+          "event_id": "55c36fc998670ff9ebccc402",
+          "start_time": 960,
+          "duration": 95,
+          "lang": "en",
+          "title": "The Mishaps of Faye Chen"
+        },
+        {
+          "event_id": "55c36fc9daf7351dfa813bc5",
+          "start_time": 1080,
+          "duration": 95,
+          "lang": "en",
+          "title": "The Mishaps of Lyons Owen"
+        },
+        {
+          "event_id": "55c36fc9011c0859bcdbf671",
+          "start_time": 1200,
+          "duration": 88,
+          "lang": "en",
+          "title": "The Life of Daphne Garrett"
+        },
+        {
+          "event_id": "55c36fc9c12afafccd6f5957",
+          "start_time": 1320,
+          "duration": 75,
+          "lang": "en",
+          "title": "The Life of Chelsea Briggs"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc937586b1d0116a2e8",
+    "channel_name": "AMC",
+    "channel_number": 362,
+    "category": [
+      "sports",
+      "adventure",
+      "adventure"
+    ],
+    "description": "Voluptate labore velit elit proident labore. Deserunt ipsum consequat laborum esse non cupidatat. Proident quis consequat adipisicing officia velit sunt labore occaecat culpa sit in ipsum exercitation. Commodo sunt cillum nostrud dolore veniam veniam nisi ex ea incididunt ea deserunt culpa et. Anim enim non est officia pariatur ea nulla magna aliquip sunt minim sint fugiat.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/AMC.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9af4e20fb62bd53f7",
+          "start_time": 0,
+          "duration": 92,
+          "lang": "en",
+          "title": "The Adventures of Key Huffman"
+        },
+        {
+          "event_id": "55c36fc9562c2136075a8840",
+          "start_time": 120,
+          "duration": 97,
+          "lang": "en",
+          "title": "The Betrayal of Paula Reilly"
+        },
+        {
+          "event_id": "55c36fc9613d2f18bfa2a659",
+          "start_time": 240,
+          "duration": 63,
+          "lang": "en",
+          "title": "The Adventures of Sharlene Adams"
+        },
+        {
+          "event_id": "55c36fc93e546dbb1cbc829f",
+          "start_time": 360,
+          "duration": 78,
+          "lang": "en",
+          "title": "The Betrayal of Delia Foster"
+        },
+        {
+          "event_id": "55c36fc9f45d08a01c440bc7",
+          "start_time": 480,
+          "duration": 92,
+          "lang": "en",
+          "title": "The Betrayal of Stevenson Quinn"
+        },
+        {
+          "event_id": "55c36fc9fe26b89652b5564b",
+          "start_time": 600,
+          "duration": 62,
+          "lang": "en",
+          "title": "The Life of Cervantes Williamson"
+        },
+        {
+          "event_id": "55c36fc9e84e4870ea7ba5ee",
+          "start_time": 720,
+          "duration": 90,
+          "lang": "en",
+          "title": "The Life of Hart Espinoza"
+        },
+        {
+          "event_id": "55c36fc9fff00cce62a5e6de",
+          "start_time": 840,
+          "duration": 80,
+          "lang": "en",
+          "title": "The Life of Frye Moon"
+        },
+        {
+          "event_id": "55c36fc9e980401b229ee4c7",
+          "start_time": 960,
+          "duration": 80,
+          "lang": "en",
+          "title": "The Adventures of Horton Freeman"
+        },
+        {
+          "event_id": "55c36fc9655a4babf441fc4d",
+          "start_time": 1080,
+          "duration": 89,
+          "lang": "en",
+          "title": "The Mishaps of Chambers Blackburn"
+        },
+        {
+          "event_id": "55c36fc9a3cf0887a5e13885",
+          "start_time": 1200,
+          "duration": 114,
+          "lang": "en",
+          "title": "The Betrayal of Mildred Stewart"
+        },
+        {
+          "event_id": "55c36fc93aa75965da84b46d",
+          "start_time": 1320,
+          "duration": 101,
+          "lang": "en",
+          "title": "The Story of Everett Ochoa"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc9f3365ffb523b5d67",
+    "channel_name": "FOX",
+    "channel_number": 382,
+    "category": [
+      "adventure",
+      "drama",
+      "drama"
+    ],
+    "description": "Voluptate velit elit fugiat pariatur. Ullamco et dolor ullamco eu. Tempor sit dolore aute ullamco elit anim quis occaecat exercitation et ex culpa minim duis. Cupidatat qui occaecat esse laborum excepteur commodo proident reprehenderit est fugiat ad consectetur irure labore. Laborum ea eu ipsum Lorem dolor veniam ut duis ad officia. Excepteur amet sit pariatur quis commodo aliquip. Incididunt sunt magna laboris officia mollit culpa dolore minim nostrud duis aliqua consectetur excepteur sint.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/FOX.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc986dd169a6b466ade",
+          "start_time": 0,
+          "duration": 96,
+          "lang": "en",
+          "title": "The Betrayal of Katrina Wiley"
+        },
+        {
+          "event_id": "55c36fc925da8290f75c7913",
+          "start_time": 120,
+          "duration": 65,
+          "lang": "en",
+          "title": "The Story of Evans Schultz"
+        },
+        {
+          "event_id": "55c36fc954ab55d473ecbd45",
+          "start_time": 240,
+          "duration": 97,
+          "lang": "en",
+          "title": "The Story of Bass Pratt"
+        },
+        {
+          "event_id": "55c36fc9eaf66d8cab156c11",
+          "start_time": 360,
+          "duration": 118,
+          "lang": "en",
+          "title": "The Betrayal of Merrill Vargas"
+        },
+        {
+          "event_id": "55c36fc9bc94744a095d10f8",
+          "start_time": 480,
+          "duration": 105,
+          "lang": "en",
+          "title": "The Life of Blackwell Mccall"
+        },
+        {
+          "event_id": "55c36fc942784e2b8cc87241",
+          "start_time": 600,
+          "duration": 77,
+          "lang": "en",
+          "title": "The Adventures of French Daniel"
+        },
+        {
+          "event_id": "55c36fc90b82ef4b23fc348b",
+          "start_time": 720,
+          "duration": 78,
+          "lang": "en",
+          "title": "The Adventures of Elisabeth Johns"
+        },
+        {
+          "event_id": "55c36fc9199a5401f6bc8a5c",
+          "start_time": 840,
+          "duration": 74,
+          "lang": "en",
+          "title": "The Story of Williams Gonzales"
+        },
+        {
+          "event_id": "55c36fc939a6a82079a85fe4",
+          "start_time": 960,
+          "duration": 81,
+          "lang": "en",
+          "title": "The Betrayal of Myers Mckinney"
+        },
+        {
+          "event_id": "55c36fc989944a888db08231",
+          "start_time": 1080,
+          "duration": 105,
+          "lang": "en",
+          "title": "The Betrayal of Aimee Fox"
+        },
+        {
+          "event_id": "55c36fc905474c0739c7815d",
+          "start_time": 1200,
+          "duration": 62,
+          "lang": "en",
+          "title": "The Story of Lidia Mullen"
+        },
+        {
+          "event_id": "55c36fc9cce0c382b4d8f714",
+          "start_time": 1320,
+          "duration": 109,
+          "lang": "en",
+          "title": "The Story of Vivian Sharp"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc9325d8ecbb4aef3b7",
+    "channel_name": "CNN",
+    "channel_number": 258,
+    "category": [
+      "adventure",
+      "reality",
+      "reality"
+    ],
+    "description": "Aliquip sint non occaecat veniam ad quis eu aliqua voluptate. Quis culpa id aliquip aliqua ipsum est labore id. Irure aute occaecat adipisicing labore velit ut mollit anim qui mollit esse consectetur proident. Mollit reprehenderit consectetur sint cillum tempor.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/CNN.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9ff98f5fe29557ae0",
+          "start_time": 0,
+          "duration": 109,
+          "lang": "en",
+          "title": "The Story of Shannon Tran"
+        },
+        {
+          "event_id": "55c36fc98ace74779f23c30b",
+          "start_time": 120,
+          "duration": 104,
+          "lang": "en",
+          "title": "The Life of Chavez Hickman"
+        },
+        {
+          "event_id": "55c36fc9b4df7a977eb264e4",
+          "start_time": 240,
+          "duration": 81,
+          "lang": "en",
+          "title": "The Betrayal of Sarah Kennedy"
+        },
+        {
+          "event_id": "55c36fc93fdecccc0a63aeda",
+          "start_time": 360,
+          "duration": 73,
+          "lang": "en",
+          "title": "The Betrayal of Minnie Ballard"
+        },
+        {
+          "event_id": "55c36fc9ba03102591c1d5ec",
+          "start_time": 480,
+          "duration": 102,
+          "lang": "en",
+          "title": "The Story of Annette English"
+        },
+        {
+          "event_id": "55c36fc9bcd990858e2237f9",
+          "start_time": 600,
+          "duration": 66,
+          "lang": "en",
+          "title": "The Story of Anderson Hood"
+        },
+        {
+          "event_id": "55c36fc98ea9cb7ad60bea78",
+          "start_time": 720,
+          "duration": 70,
+          "lang": "en",
+          "title": "The Life of Skinner Joyce"
+        },
+        {
+          "event_id": "55c36fc9c741d9736a7ae171",
+          "start_time": 840,
+          "duration": 111,
+          "lang": "en",
+          "title": "The Story of Bernice Munoz"
+        },
+        {
+          "event_id": "55c36fc98fe70e62a79dde9e",
+          "start_time": 960,
+          "duration": 68,
+          "lang": "en",
+          "title": "The Adventures of Underwood Mcgowan"
+        },
+        {
+          "event_id": "55c36fc99f7d0813bf1ca3dd",
+          "start_time": 1080,
+          "duration": 91,
+          "lang": "en",
+          "title": "The Story of Marcia Silva"
+        },
+        {
+          "event_id": "55c36fc9744084369bad0ba7",
+          "start_time": 1200,
+          "duration": 65,
+          "lang": "en",
+          "title": "The Mishaps of Hunter Hyde"
+        },
+        {
+          "event_id": "55c36fc9b52ac8436f769aa6",
+          "start_time": 1320,
+          "duration": 100,
+          "lang": "en",
+          "title": "The Adventures of Mcintosh Lang"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc9e067416c1082012c",
+    "channel_name": "MTV",
+    "channel_number": 177,
+    "category": [
+      "adventure",
+      "drama",
+      "sports"
+    ],
+    "description": "Duis qui velit consequat incididunt culpa do duis ullamco fugiat irure. Esse est ad veniam aute laborum est. Enim non consectetur fugiat nostrud aliqua pariatur elit velit. Qui ea eiusmod consectetur commodo ut officia commodo ut reprehenderit eiusmod culpa.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/MTV.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9cf845314baedfac0",
+          "start_time": 0,
+          "duration": 86,
+          "lang": "en",
+          "title": "The Adventures of Keri Guerrero"
+        },
+        {
+          "event_id": "55c36fc96dc82f8c2e0c0168",
+          "start_time": 120,
+          "duration": 93,
+          "lang": "en",
+          "title": "The Betrayal of Pauline Acosta"
+        },
+        {
+          "event_id": "55c36fc975f6508522bd6862",
+          "start_time": 240,
+          "duration": 69,
+          "lang": "en",
+          "title": "The Betrayal of Hancock Perkins"
+        },
+        {
+          "event_id": "55c36fc9b0611a575d1b020a",
+          "start_time": 360,
+          "duration": 116,
+          "lang": "en",
+          "title": "The Betrayal of Weber Mcneil"
+        },
+        {
+          "event_id": "55c36fc91ec3eb12b634c326",
+          "start_time": 480,
+          "duration": 72,
+          "lang": "en",
+          "title": "The Story of Mcleod Love"
+        },
+        {
+          "event_id": "55c36fc9c5ed1640deff4801",
+          "start_time": 600,
+          "duration": 97,
+          "lang": "en",
+          "title": "The Mishaps of Deleon Trujillo"
+        },
+        {
+          "event_id": "55c36fc94be659dffd4e0d07",
+          "start_time": 720,
+          "duration": 94,
+          "lang": "en",
+          "title": "The Adventures of Britney Gilbert"
+        },
+        {
+          "event_id": "55c36fc9e24dc66aa2a5f6e9",
+          "start_time": 840,
+          "duration": 87,
+          "lang": "en",
+          "title": "The Adventures of Lottie Leblanc"
+        },
+        {
+          "event_id": "55c36fc992033c6a6fac2271",
+          "start_time": 960,
+          "duration": 89,
+          "lang": "en",
+          "title": "The Story of Pacheco Hewitt"
+        },
+        {
+          "event_id": "55c36fc9d1643e27285abfa9",
+          "start_time": 1080,
+          "duration": 80,
+          "lang": "en",
+          "title": "The Story of Rodgers Barlow"
+        },
+        {
+          "event_id": "55c36fc9128f73bc338e0ad8",
+          "start_time": 1200,
+          "duration": 65,
+          "lang": "en",
+          "title": "The Betrayal of Sondra Dennis"
+        },
+        {
+          "event_id": "55c36fc9e5ad2d01f67ebe1a",
+          "start_time": 1320,
+          "duration": 95,
+          "lang": "en",
+          "title": "The Story of James Buck"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc9947097e0dd5617ca",
+    "channel_name": "HBO",
+    "channel_number": 337,
+    "category": [
+      "sports",
+      "reality",
+      "reality"
+    ],
+    "description": "Proident velit do sit sunt quis proident elit commodo qui nostrud nulla. Excepteur aliquip et laborum nulla id in duis ipsum. Pariatur sint enim commodo adipisicing culpa fugiat commodo labore nulla aliquip. Elit ullamco commodo irure pariatur nulla tempor ad exercitation Lorem ut. Voluptate proident ullamco tempor exercitation nisi ea magna consectetur nulla dolor laboris do.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/HBO.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc94cc75a0bba46417d",
+          "start_time": 0,
+          "duration": 78,
+          "lang": "en",
+          "title": "The Mishaps of Howe Stevens"
+        },
+        {
+          "event_id": "55c36fc9497702cc84c8e111",
+          "start_time": 120,
+          "duration": 82,
+          "lang": "en",
+          "title": "The Life of Robyn Paul"
+        },
+        {
+          "event_id": "55c36fc9f7ac9c6bf1d17d82",
+          "start_time": 240,
+          "duration": 93,
+          "lang": "en",
+          "title": "The Life of Hensley Cotton"
+        },
+        {
+          "event_id": "55c36fc91fa02c49efdfaeee",
+          "start_time": 360,
+          "duration": 80,
+          "lang": "en",
+          "title": "The Betrayal of Holden Cain"
+        },
+        {
+          "event_id": "55c36fc97450d195201539e3",
+          "start_time": 480,
+          "duration": 109,
+          "lang": "en",
+          "title": "The Story of Alvarez Witt"
+        },
+        {
+          "event_id": "55c36fc912e79b69130e6c2c",
+          "start_time": 600,
+          "duration": 91,
+          "lang": "en",
+          "title": "The Betrayal of Russo Wilson"
+        },
+        {
+          "event_id": "55c36fc9139881adf2200d25",
+          "start_time": 720,
+          "duration": 90,
+          "lang": "en",
+          "title": "The Mishaps of Conley Chavez"
+        },
+        {
+          "event_id": "55c36fc949dd7e5ae4c34afc",
+          "start_time": 840,
+          "duration": 74,
+          "lang": "en",
+          "title": "The Mishaps of Kristine Webb"
+        },
+        {
+          "event_id": "55c36fc9724fd0bae29827ce",
+          "start_time": 960,
+          "duration": 93,
+          "lang": "en",
+          "title": "The Mishaps of Twila Neal"
+        },
+        {
+          "event_id": "55c36fc910c7ead9b8b1825f",
+          "start_time": 1080,
+          "duration": 80,
+          "lang": "en",
+          "title": "The Mishaps of Ruth Avila"
+        },
+        {
+          "event_id": "55c36fc91259623e14bc1d66",
+          "start_time": 1200,
+          "duration": 118,
+          "lang": "en",
+          "title": "The Mishaps of Lessie Burnett"
+        },
+        {
+          "event_id": "55c36fc9b5424fc074ded529",
+          "start_time": 1320,
+          "duration": 71,
+          "lang": "en",
+          "title": "The Adventures of Melody Donaldson"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc9bb1dc2065dfdf484",
+    "channel_name": "APL",
+    "channel_number": 170,
+    "category": [
+      "adventure",
+      "sports",
+      "action"
+    ],
+    "description": "Aliquip ullamco eiusmod minim ut sit cillum sit irure commodo occaecat aute. Officia laborum eu nulla adipisicing ad ullamco cupidatat duis nostrud exercitation velit nulla. Commodo tempor eiusmod commodo cupidatat fugiat mollit. Occaecat reprehenderit irure ipsum cupidatat culpa veniam consectetur. Commodo voluptate amet aliqua incididunt qui dolore voluptate ut. Occaecat magna nulla incididunt est ullamco quis duis dolor laboris.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/APL.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc954d9f69e67fc5081",
+          "start_time": 0,
+          "duration": 95,
+          "lang": "en",
+          "title": "The Mishaps of Louella Patton"
+        },
+        {
+          "event_id": "55c36fc956587c4ba15d2231",
+          "start_time": 120,
+          "duration": 117,
+          "lang": "en",
+          "title": "The Adventures of Allison Sullivan"
+        },
+        {
+          "event_id": "55c36fc9aac4daec33b6b3e1",
+          "start_time": 240,
+          "duration": 103,
+          "lang": "en",
+          "title": "The Mishaps of Ruiz Pierce"
+        },
+        {
+          "event_id": "55c36fc9514c270c0dbad9fd",
+          "start_time": 360,
+          "duration": 73,
+          "lang": "en",
+          "title": "The Life of Lindsay Hudson"
+        },
+        {
+          "event_id": "55c36fc99967a398b2e1407b",
+          "start_time": 480,
+          "duration": 91,
+          "lang": "en",
+          "title": "The Adventures of Leonard Brooks"
+        },
+        {
+          "event_id": "55c36fc9a21e069a2d93b123",
+          "start_time": 600,
+          "duration": 74,
+          "lang": "en",
+          "title": "The Betrayal of Carrie Pitts"
+        },
+        {
+          "event_id": "55c36fc9ac5fbaede56149dc",
+          "start_time": 720,
+          "duration": 99,
+          "lang": "en",
+          "title": "The Adventures of Cherry Lewis"
+        },
+        {
+          "event_id": "55c36fc9710bdc3b6fc0eafa",
+          "start_time": 840,
+          "duration": 75,
+          "lang": "en",
+          "title": "The Story of Elnora Castaneda"
+        },
+        {
+          "event_id": "55c36fc9d60891a906ca6fbe",
+          "start_time": 960,
+          "duration": 112,
+          "lang": "en",
+          "title": "The Adventures of Donovan Vasquez"
+        },
+        {
+          "event_id": "55c36fc9e32a0ff8056980a5",
+          "start_time": 1080,
+          "duration": 98,
+          "lang": "en",
+          "title": "The Story of Bettie Moran"
+        },
+        {
+          "event_id": "55c36fc9b05e3b37f78b2170",
+          "start_time": 1200,
+          "duration": 90,
+          "lang": "en",
+          "title": "The Mishaps of Pruitt Sweet"
+        },
+        {
+          "event_id": "55c36fc9a4fd4291c83a26ce",
+          "start_time": 1320,
+          "duration": 62,
+          "lang": "en",
+          "title": "The Betrayal of Raquel Clayton"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc99fef87b9e7025a06",
+    "channel_name": "MTV",
+    "channel_number": 134,
+    "category": [
+      "drama",
+      "sports",
+      "reality"
+    ],
+    "description": "Mollit tempor Lorem sit consequat sit do duis reprehenderit qui ipsum est commodo. Consequat sit veniam qui eu laboris esse voluptate sint sint pariatur excepteur consequat id. Consectetur occaecat dolor fugiat elit ex eiusmod adipisicing commodo. Tempor ipsum et enim commodo voluptate in commodo anim dolore do incididunt deserunt proident proident. Eu culpa consequat consectetur ex laboris commodo cillum sint excepteur aliquip anim enim labore eu. Adipisicing ea velit fugiat enim eu adipisicing esse ea ad mollit magna officia. Nostrud sunt ex mollit magna fugiat ad incididunt qui commodo aliqua occaecat sunt sunt officia.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/MTV.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc93f9741d4b7a029f7",
+          "start_time": 0,
+          "duration": 94,
+          "lang": "en",
+          "title": "The Mishaps of Yang Hines"
+        },
+        {
+          "event_id": "55c36fc9d606d095099b0e7e",
+          "start_time": 120,
+          "duration": 72,
+          "lang": "en",
+          "title": "The Story of Crawford Moore"
+        },
+        {
+          "event_id": "55c36fc9b688f35564f1d2b9",
+          "start_time": 240,
+          "duration": 119,
+          "lang": "en",
+          "title": "The Life of Castaneda Sears"
+        },
+        {
+          "event_id": "55c36fc9aa0835e0d932af3c",
+          "start_time": 360,
+          "duration": 114,
+          "lang": "en",
+          "title": "The Mishaps of Combs Foreman"
+        },
+        {
+          "event_id": "55c36fc9ef030d611c385ae9",
+          "start_time": 480,
+          "duration": 95,
+          "lang": "en",
+          "title": "The Mishaps of Short Barron"
+        },
+        {
+          "event_id": "55c36fc968a2b335c3b78731",
+          "start_time": 600,
+          "duration": 98,
+          "lang": "en",
+          "title": "The Mishaps of Geneva Hampton"
+        },
+        {
+          "event_id": "55c36fc9214902fd9655efa4",
+          "start_time": 720,
+          "duration": 98,
+          "lang": "en",
+          "title": "The Betrayal of Dona Melendez"
+        },
+        {
+          "event_id": "55c36fc9067c014aec09d82f",
+          "start_time": 840,
+          "duration": 82,
+          "lang": "en",
+          "title": "The Adventures of Dominique Brown"
+        },
+        {
+          "event_id": "55c36fc9d92e4434eb82bd7b",
+          "start_time": 960,
+          "duration": 94,
+          "lang": "en",
+          "title": "The Life of Maude Ferrell"
+        },
+        {
+          "event_id": "55c36fc918e37140a2bf7ee9",
+          "start_time": 1080,
+          "duration": 94,
+          "lang": "en",
+          "title": "The Story of Jeannette Brock"
+        },
+        {
+          "event_id": "55c36fc9c6bbbf870fc10d30",
+          "start_time": 1200,
+          "duration": 119,
+          "lang": "en",
+          "title": "The Betrayal of Blackburn Carroll"
+        },
+        {
+          "event_id": "55c36fc9cafea16042109578",
+          "start_time": 1320,
+          "duration": 64,
+          "lang": "en",
+          "title": "The Story of Blake Case"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc99d6b10e2f117af30",
+    "channel_name": "CBS",
+    "channel_number": 342,
+    "category": [
+      "drama",
+      "reality",
+      "reality"
+    ],
+    "description": "Incididunt cupidatat mollit aliquip veniam. Excepteur ut laborum nostrud nisi proident culpa. Reprehenderit ipsum qui non in. Est do laborum sint non do ex nulla labore in laboris Lorem id.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/CBS.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9cf7cdfe0be17379f",
+          "start_time": 0,
+          "duration": 120,
+          "lang": "en",
+          "title": "The Adventures of Potts Boyer"
+        },
+        {
+          "event_id": "55c36fc90264d221c13f0065",
+          "start_time": 120,
+          "duration": 105,
+          "lang": "en",
+          "title": "The Story of Ellen Galloway"
+        },
+        {
+          "event_id": "55c36fc934907f246343c89f",
+          "start_time": 240,
+          "duration": 87,
+          "lang": "en",
+          "title": "The Adventures of Bullock Manning"
+        },
+        {
+          "event_id": "55c36fc9de4655644cca6cc2",
+          "start_time": 360,
+          "duration": 106,
+          "lang": "en",
+          "title": "The Mishaps of Cantu Huber"
+        },
+        {
+          "event_id": "55c36fc98539b619194fb966",
+          "start_time": 480,
+          "duration": 99,
+          "lang": "en",
+          "title": "The Story of Mueller Mcmillan"
+        },
+        {
+          "event_id": "55c36fc978723ac17465c9fb",
+          "start_time": 600,
+          "duration": 87,
+          "lang": "en",
+          "title": "The Story of Grace Mooney"
+        },
+        {
+          "event_id": "55c36fc9aa2a321a668d8033",
+          "start_time": 720,
+          "duration": 86,
+          "lang": "en",
+          "title": "The Story of Cochran Bailey"
+        },
+        {
+          "event_id": "55c36fc9ad33635b26906341",
+          "start_time": 840,
+          "duration": 109,
+          "lang": "en",
+          "title": "The Story of Tate Terrell"
+        },
+        {
+          "event_id": "55c36fc9a14411aca9fdc587",
+          "start_time": 960,
+          "duration": 108,
+          "lang": "en",
+          "title": "The Mishaps of Shelia Page"
+        },
+        {
+          "event_id": "55c36fc980f7d272647506a1",
+          "start_time": 1080,
+          "duration": 105,
+          "lang": "en",
+          "title": "The Adventures of Melva Hopper"
+        },
+        {
+          "event_id": "55c36fc91538ab6f75c7123a",
+          "start_time": 1200,
+          "duration": 70,
+          "lang": "en",
+          "title": "The Adventures of Newton Clarke"
+        },
+        {
+          "event_id": "55c36fc927444410330ef9b8",
+          "start_time": 1320,
+          "duration": 70,
+          "lang": "en",
+          "title": "The Life of Carr Rivers"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc9a14a0811343523bb",
+    "channel_name": "CBS",
+    "channel_number": 290,
+    "category": [
+      "drama",
+      "reality",
+      "drama"
+    ],
+    "description": "Mollit proident culpa duis fugiat qui proident do qui ut aliqua nisi ut. Ut consectetur esse tempor minim anim cupidatat ea incididunt ipsum. Culpa amet labore est et. Laborum eu nisi proident nostrud aliquip.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/CBS.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc94ae92b3e3bc23787",
+          "start_time": 0,
+          "duration": 96,
+          "lang": "en",
+          "title": "The Story of Kay Hamilton"
+        },
+        {
+          "event_id": "55c36fc9e03512355e252a0d",
+          "start_time": 120,
+          "duration": 80,
+          "lang": "en",
+          "title": "The Mishaps of Bobbi Copeland"
+        },
+        {
+          "event_id": "55c36fc9aebbd5411feb3715",
+          "start_time": 240,
+          "duration": 93,
+          "lang": "en",
+          "title": "The Betrayal of Sherman Stanton"
+        },
+        {
+          "event_id": "55c36fc9e273620c9e0d8243",
+          "start_time": 360,
+          "duration": 103,
+          "lang": "en",
+          "title": "The Story of Aurora Kane"
+        },
+        {
+          "event_id": "55c36fc94cef5ce95019b9f2",
+          "start_time": 480,
+          "duration": 107,
+          "lang": "en",
+          "title": "The Adventures of Dale Sampson"
+        },
+        {
+          "event_id": "55c36fc93103bfe0cf4f8674",
+          "start_time": 600,
+          "duration": 114,
+          "lang": "en",
+          "title": "The Mishaps of Ophelia Mercado"
+        },
+        {
+          "event_id": "55c36fc969072217f9d5ea0b",
+          "start_time": 720,
+          "duration": 105,
+          "lang": "en",
+          "title": "The Betrayal of Nunez Richard"
+        },
+        {
+          "event_id": "55c36fc979a645e47a9f995b",
+          "start_time": 840,
+          "duration": 95,
+          "lang": "en",
+          "title": "The Mishaps of Leigh Young"
+        },
+        {
+          "event_id": "55c36fc96b573cb8201f0736",
+          "start_time": 960,
+          "duration": 86,
+          "lang": "en",
+          "title": "The Adventures of Drake Diaz"
+        },
+        {
+          "event_id": "55c36fc9b366d71113eba1c6",
+          "start_time": 1080,
+          "duration": 83,
+          "lang": "en",
+          "title": "The Story of Lauri Jones"
+        },
+        {
+          "event_id": "55c36fc97897bef399c2c52b",
+          "start_time": 1200,
+          "duration": 92,
+          "lang": "en",
+          "title": "The Mishaps of Katherine Bright"
+        },
+        {
+          "event_id": "55c36fc9994682dc1d16d67b",
+          "start_time": 1320,
+          "duration": 84,
+          "lang": "en",
+          "title": "The Mishaps of Christie Garcia"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc97a8cce870693be0c",
+    "channel_name": "NICK",
+    "channel_number": 213,
+    "category": [
+      "drama",
+      "reality",
+      "adventure"
+    ],
+    "description": "Tempor sit aliquip ex ad. Ut Lorem ullamco quis sit id pariatur. Tempor eiusmod sint officia non. Sint eiusmod veniam duis adipisicing. Tempor cillum quis laboris ullamco officia consequat nostrud. Incididunt deserunt do irure ex aute duis ea do aliquip voluptate. Elit consequat cillum in mollit dolor laborum ut.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/NICK.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9470c4d5162c6b9ad",
+          "start_time": 0,
+          "duration": 88,
+          "lang": "en",
+          "title": "The Betrayal of Lois May"
+        },
+        {
+          "event_id": "55c36fc92844770d3126b990",
+          "start_time": 120,
+          "duration": 64,
+          "lang": "en",
+          "title": "The Adventures of Villarreal Wagner"
+        },
+        {
+          "event_id": "55c36fc9d1a4719957529fc2",
+          "start_time": 240,
+          "duration": 60,
+          "lang": "en",
+          "title": "The Adventures of Mcclain Watts"
+        },
+        {
+          "event_id": "55c36fc98110b9322166d753",
+          "start_time": 360,
+          "duration": 97,
+          "lang": "en",
+          "title": "The Mishaps of Melba Crawford"
+        },
+        {
+          "event_id": "55c36fc9226ba39bd9c48c27",
+          "start_time": 480,
+          "duration": 83,
+          "lang": "en",
+          "title": "The Life of Thelma Nichols"
+        },
+        {
+          "event_id": "55c36fc99888f3d62119360c",
+          "start_time": 600,
+          "duration": 105,
+          "lang": "en",
+          "title": "The Mishaps of Essie Franks"
+        },
+        {
+          "event_id": "55c36fc9a91bf308d1de865f",
+          "start_time": 720,
+          "duration": 88,
+          "lang": "en",
+          "title": "The Story of Powell Morrow"
+        },
+        {
+          "event_id": "55c36fc987ba6a186acfd5f5",
+          "start_time": 840,
+          "duration": 72,
+          "lang": "en",
+          "title": "The Life of Branch Raymond"
+        },
+        {
+          "event_id": "55c36fc94896620594dda6f3",
+          "start_time": 960,
+          "duration": 68,
+          "lang": "en",
+          "title": "The Story of Claudine Grant"
+        },
+        {
+          "event_id": "55c36fc9efd645746a816d17",
+          "start_time": 1080,
+          "duration": 69,
+          "lang": "en",
+          "title": "The Betrayal of Dolly Cole"
+        },
+        {
+          "event_id": "55c36fc9682bbf1a08f9fa5f",
+          "start_time": 1200,
+          "duration": 101,
+          "lang": "en",
+          "title": "The Story of Koch Frank"
+        },
+        {
+          "event_id": "55c36fc916fd47359a4c619f",
+          "start_time": 1320,
+          "duration": 98,
+          "lang": "en",
+          "title": "The Adventures of Angelina Ewing"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc98b4b875fa395802f",
+    "channel_name": "ESPN",
+    "channel_number": 296,
+    "category": [
+      "adventure",
+      "action",
+      "reality"
+    ],
+    "description": "Laboris cillum laborum culpa dolor excepteur eu mollit duis nulla ipsum laboris. Aute irure aute culpa nostrud officia. Lorem occaecat nisi ipsum officia et consequat laboris aliquip sint sit. Tempor amet ad enim eiusmod esse nulla elit eiusmod.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/ESPN.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc90b4b107636e5dd1b",
+          "start_time": 0,
+          "duration": 76,
+          "lang": "en",
+          "title": "The Story of Isabella Schwartz"
+        },
+        {
+          "event_id": "55c36fc9e37cab48e4cc22fc",
+          "start_time": 120,
+          "duration": 90,
+          "lang": "en",
+          "title": "The Story of Webster Delacruz"
+        },
+        {
+          "event_id": "55c36fc9e44c8315ea645b8e",
+          "start_time": 240,
+          "duration": 81,
+          "lang": "en",
+          "title": "The Adventures of Chrystal Torres"
+        },
+        {
+          "event_id": "55c36fc90aaaf59e6b2b4ceb",
+          "start_time": 360,
+          "duration": 70,
+          "lang": "en",
+          "title": "The Life of Cherie Baxter"
+        },
+        {
+          "event_id": "55c36fc9b902ea8492cae83e",
+          "start_time": 480,
+          "duration": 69,
+          "lang": "en",
+          "title": "The Story of Lowe Rutledge"
+        },
+        {
+          "event_id": "55c36fc93c13b5eaaffe115d",
+          "start_time": 600,
+          "duration": 86,
+          "lang": "en",
+          "title": "The Betrayal of Liz Wong"
+        },
+        {
+          "event_id": "55c36fc92e397eca4f0cbed9",
+          "start_time": 720,
+          "duration": 82,
+          "lang": "en",
+          "title": "The Betrayal of Pope Tillman"
+        },
+        {
+          "event_id": "55c36fc9a0734fb781361d1d",
+          "start_time": 840,
+          "duration": 77,
+          "lang": "en",
+          "title": "The Adventures of Madelyn Lopez"
+        },
+        {
+          "event_id": "55c36fc96f164e20ef315fdd",
+          "start_time": 960,
+          "duration": 106,
+          "lang": "en",
+          "title": "The Mishaps of Crosby Hogan"
+        },
+        {
+          "event_id": "55c36fc918192ae68c22adf9",
+          "start_time": 1080,
+          "duration": 80,
+          "lang": "en",
+          "title": "The Story of Tessa Mccray"
+        },
+        {
+          "event_id": "55c36fc905001bd29400a1be",
+          "start_time": 1200,
+          "duration": 71,
+          "lang": "en",
+          "title": "The Story of Bauer Reyes"
+        },
+        {
+          "event_id": "55c36fc9026f4a2427234fa1",
+          "start_time": 1320,
+          "duration": 106,
+          "lang": "en",
+          "title": "The Adventures of Gentry Mason"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc98849af1c93d4e4e1",
+    "channel_name": "NBC",
+    "channel_number": 116,
+    "category": [
+      "action",
+      "reality",
+      "sports"
+    ],
+    "description": "Eiusmod anim consectetur id cupidatat nisi minim ea duis. Officia eiusmod cupidatat reprehenderit nostrud ad in labore dolor. Tempor id non aute excepteur aute.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/NBC.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc93a549d3681cf97aa",
+          "start_time": 0,
+          "duration": 94,
+          "lang": "en",
+          "title": "The Mishaps of Cotton Blake"
+        },
+        {
+          "event_id": "55c36fc9dfcfed74c707de09",
+          "start_time": 120,
+          "duration": 62,
+          "lang": "en",
+          "title": "The Story of Padilla Giles"
+        },
+        {
+          "event_id": "55c36fc9588b6f563eab89a5",
+          "start_time": 240,
+          "duration": 68,
+          "lang": "en",
+          "title": "The Betrayal of Burris Macias"
+        },
+        {
+          "event_id": "55c36fc98d7714322394dc4a",
+          "start_time": 360,
+          "duration": 82,
+          "lang": "en",
+          "title": "The Adventures of Cain Dudley"
+        },
+        {
+          "event_id": "55c36fc9f12a6cbac763f5e9",
+          "start_time": 480,
+          "duration": 89,
+          "lang": "en",
+          "title": "The Life of Toni Wilkinson"
+        },
+        {
+          "event_id": "55c36fc9b96d9def1f7c4139",
+          "start_time": 600,
+          "duration": 102,
+          "lang": "en",
+          "title": "The Adventures of Mayo Harmon"
+        },
+        {
+          "event_id": "55c36fc949c04aa9be1c45bb",
+          "start_time": 720,
+          "duration": 97,
+          "lang": "en",
+          "title": "The Mishaps of Roy Clark"
+        },
+        {
+          "event_id": "55c36fc91dc7358552ebf5d3",
+          "start_time": 840,
+          "duration": 73,
+          "lang": "en",
+          "title": "The Story of Betsy Robinson"
+        },
+        {
+          "event_id": "55c36fc931cbdcfea21a33ca",
+          "start_time": 960,
+          "duration": 83,
+          "lang": "en",
+          "title": "The Story of Lucile Carney"
+        },
+        {
+          "event_id": "55c36fc942a4a47b50a43cdd",
+          "start_time": 1080,
+          "duration": 66,
+          "lang": "en",
+          "title": "The Mishaps of Booker Velasquez"
+        },
+        {
+          "event_id": "55c36fc9919dff5c30bf6820",
+          "start_time": 1200,
+          "duration": 113,
+          "lang": "en",
+          "title": "The Story of Adrian Mays"
+        },
+        {
+          "event_id": "55c36fc9a4167013cae8641d",
+          "start_time": 1320,
+          "duration": 95,
+          "lang": "en",
+          "title": "The Betrayal of Emily Gardner"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc917186300a8fea06c",
+    "channel_name": "DIS",
+    "channel_number": 42,
+    "category": [
+      "action",
+      "sports",
+      "action"
+    ],
+    "description": "Elit veniam consequat labore qui est sit. Exercitation irure sint id elit aliqua proident occaecat laborum magna. Ea eu do aliqua consequat eu mollit deserunt. Amet est eiusmod magna aute cupidatat consectetur laboris. Commodo consequat labore excepteur officia ex sunt irure pariatur labore eu adipisicing cillum. Lorem dolor cillum reprehenderit consequat.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/DIS.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9b1fc787886d5d451",
+          "start_time": 0,
+          "duration": 70,
+          "lang": "en",
+          "title": "The Adventures of Barker Sykes"
+        },
+        {
+          "event_id": "55c36fc9ce33bdff7cfa446c",
+          "start_time": 120,
+          "duration": 86,
+          "lang": "en",
+          "title": "The Adventures of Phoebe Charles"
+        },
+        {
+          "event_id": "55c36fc9d5434f6457df1efc",
+          "start_time": 240,
+          "duration": 80,
+          "lang": "en",
+          "title": "The Betrayal of Barton Macdonald"
+        },
+        {
+          "event_id": "55c36fc928152f893eff066c",
+          "start_time": 360,
+          "duration": 119,
+          "lang": "en",
+          "title": "The Story of Bruce Alexander"
+        },
+        {
+          "event_id": "55c36fc9e0158fc6b7d91198",
+          "start_time": 480,
+          "duration": 119,
+          "lang": "en",
+          "title": "The Adventures of Tamra Garrison"
+        },
+        {
+          "event_id": "55c36fc9cd4da7e8b9c01954",
+          "start_time": 600,
+          "duration": 104,
+          "lang": "en",
+          "title": "The Adventures of Hattie Garner"
+        },
+        {
+          "event_id": "55c36fc9361071409f7503dc",
+          "start_time": 720,
+          "duration": 103,
+          "lang": "en",
+          "title": "The Story of Dominguez Parks"
+        },
+        {
+          "event_id": "55c36fc9f2ab5872e10e9879",
+          "start_time": 840,
+          "duration": 74,
+          "lang": "en",
+          "title": "The Mishaps of Roman Roberts"
+        },
+        {
+          "event_id": "55c36fc99664135e2c57675b",
+          "start_time": 960,
+          "duration": 100,
+          "lang": "en",
+          "title": "The Adventures of Ethel Parsons"
+        },
+        {
+          "event_id": "55c36fc9ef2d795b01916ce9",
+          "start_time": 1080,
+          "duration": 114,
+          "lang": "en",
+          "title": "The Mishaps of Boyle Ratliff"
+        },
+        {
+          "event_id": "55c36fc9a6a984cb9d8c1a3b",
+          "start_time": 1200,
+          "duration": 120,
+          "lang": "en",
+          "title": "The Mishaps of York Arnold"
+        },
+        {
+          "event_id": "55c36fc9df66901ec613f6d5",
+          "start_time": 1320,
+          "duration": 63,
+          "lang": "en",
+          "title": "The Adventures of Debora Estes"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc948a7e4cbbe3abd40",
+    "channel_name": "ESPN",
+    "channel_number": 103,
+    "category": [
+      "adventure",
+      "reality",
+      "action"
+    ],
+    "description": "Velit nulla non quis in minim ex tempor sint quis incididunt tempor consequat amet. Pariatur deserunt ullamco veniam culpa enim deserunt quis eiusmod fugiat est cupidatat labore. Veniam labore consequat laboris aliquip. Dolor ea veniam est esse ex sunt aliquip velit sit voluptate.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/ESPN.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9e924ce8a6d7685fa",
+          "start_time": 0,
+          "duration": 95,
+          "lang": "en",
+          "title": "The Adventures of Vang Hayden"
+        },
+        {
+          "event_id": "55c36fc9f84c12d2e4f63a55",
+          "start_time": 120,
+          "duration": 65,
+          "lang": "en",
+          "title": "The Story of Caldwell Stone"
+        },
+        {
+          "event_id": "55c36fc9e608b96640daeb72",
+          "start_time": 240,
+          "duration": 78,
+          "lang": "en",
+          "title": "The Life of Johanna Lane"
+        },
+        {
+          "event_id": "55c36fc9adea54bfca7637c7",
+          "start_time": 360,
+          "duration": 80,
+          "lang": "en",
+          "title": "The Story of Ava Rocha"
+        },
+        {
+          "event_id": "55c36fc9d3b2df254fb5d7d9",
+          "start_time": 480,
+          "duration": 81,
+          "lang": "en",
+          "title": "The Adventures of Johns Middleton"
+        },
+        {
+          "event_id": "55c36fc93b412076b4494bcf",
+          "start_time": 600,
+          "duration": 100,
+          "lang": "en",
+          "title": "The Mishaps of Gonzales Cleveland"
+        },
+        {
+          "event_id": "55c36fc904e50672558dfbb4",
+          "start_time": 720,
+          "duration": 94,
+          "lang": "en",
+          "title": "The Adventures of Maggie Bradford"
+        },
+        {
+          "event_id": "55c36fc98a572976ce4fd3c3",
+          "start_time": 840,
+          "duration": 110,
+          "lang": "en",
+          "title": "The Adventures of Valencia Barber"
+        },
+        {
+          "event_id": "55c36fc900ad82f322a08be9",
+          "start_time": 960,
+          "duration": 97,
+          "lang": "en",
+          "title": "The Story of Trevino Valencia"
+        },
+        {
+          "event_id": "55c36fc9ee5209c7ffa1bc13",
+          "start_time": 1080,
+          "duration": 118,
+          "lang": "en",
+          "title": "The Mishaps of Shannon Walter"
+        },
+        {
+          "event_id": "55c36fc970b355644d646283",
+          "start_time": 1200,
+          "duration": 98,
+          "lang": "en",
+          "title": "The Betrayal of Tasha Gordon"
+        },
+        {
+          "event_id": "55c36fc95b276cb69b0abe91",
+          "start_time": 1320,
+          "duration": 119,
+          "lang": "en",
+          "title": "The Mishaps of Hewitt Parrish"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc937061b1baec6d8b2",
+    "channel_name": "DIS",
+    "channel_number": 28,
+    "category": [
+      "action",
+      "adventure",
+      "adventure"
+    ],
+    "description": "Nisi commodo consectetur officia sit anim aliqua est. Nulla dolor do fugiat commodo magna magna ipsum reprehenderit exercitation amet labore. Proident consequat in consequat fugiat labore. Laboris et non deserunt exercitation consectetur do fugiat reprehenderit sint qui enim.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/DIS.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc945be8b96d0d5fdd7",
+          "start_time": 0,
+          "duration": 111,
+          "lang": "en",
+          "title": "The Mishaps of Theresa Wooten"
+        },
+        {
+          "event_id": "55c36fc9b51a2b646f771408",
+          "start_time": 120,
+          "duration": 116,
+          "lang": "en",
+          "title": "The Life of Leblanc Burgess"
+        },
+        {
+          "event_id": "55c36fc965e922eecf2c7b0a",
+          "start_time": 240,
+          "duration": 78,
+          "lang": "en",
+          "title": "The Adventures of Rhea Gilmore"
+        },
+        {
+          "event_id": "55c36fc9b0e1fdb22180356b",
+          "start_time": 360,
+          "duration": 105,
+          "lang": "en",
+          "title": "The Betrayal of Janice Patel"
+        },
+        {
+          "event_id": "55c36fc966b84374e60d244b",
+          "start_time": 480,
+          "duration": 72,
+          "lang": "en",
+          "title": "The Mishaps of Tyson Guy"
+        },
+        {
+          "event_id": "55c36fc9c3950223b5bfac0c",
+          "start_time": 600,
+          "duration": 117,
+          "lang": "en",
+          "title": "The Mishaps of Patrick Wall"
+        },
+        {
+          "event_id": "55c36fc927cfb9ef1885a581",
+          "start_time": 720,
+          "duration": 79,
+          "lang": "en",
+          "title": "The Adventures of Landry Sanders"
+        },
+        {
+          "event_id": "55c36fc99daef14f3ac5b6cd",
+          "start_time": 840,
+          "duration": 101,
+          "lang": "en",
+          "title": "The Adventures of Janet Pittman"
+        },
+        {
+          "event_id": "55c36fc99d3ab96a0e6376d2",
+          "start_time": 960,
+          "duration": 113,
+          "lang": "en",
+          "title": "The Mishaps of Estela Harris"
+        },
+        {
+          "event_id": "55c36fc90a6cf93651650d63",
+          "start_time": 1080,
+          "duration": 97,
+          "lang": "en",
+          "title": "The Life of Ivy Conley"
+        },
+        {
+          "event_id": "55c36fc9641696eb23ef8787",
+          "start_time": 1200,
+          "duration": 68,
+          "lang": "en",
+          "title": "The Mishaps of Millie Mitchell"
+        },
+        {
+          "event_id": "55c36fc99ca574d06e5ce948",
+          "start_time": 1320,
+          "duration": 66,
+          "lang": "en",
+          "title": "The Story of Baker Ortega"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc9eb581a93807dabde",
+    "channel_name": "PBS",
+    "channel_number": 70,
+    "category": [
+      "sports",
+      "action",
+      "adventure"
+    ],
+    "description": "Amet est incididunt nisi reprehenderit laborum magna laborum reprehenderit elit qui nulla. Est proident elit nisi enim consectetur cillum. Nulla minim eu sunt tempor cillum pariatur aliqua. Aliquip sit sint sunt culpa eu. Ex sit tempor cillum cupidatat in aliqua velit occaecat cillum laborum elit dolor. Sit excepteur exercitation ipsum nisi culpa quis dolor anim fugiat. Do tempor in amet aliquip enim reprehenderit ut sint officia consectetur aliquip quis proident est.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/PBS.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9807d7f3813413ea0",
+          "start_time": 0,
+          "duration": 112,
+          "lang": "en",
+          "title": "The Mishaps of Anthony Knox"
+        },
+        {
+          "event_id": "55c36fc995b01f96d316942a",
+          "start_time": 120,
+          "duration": 83,
+          "lang": "en",
+          "title": "The Adventures of Magdalena Gillespie"
+        },
+        {
+          "event_id": "55c36fc9b363044e3d762dab",
+          "start_time": 240,
+          "duration": 116,
+          "lang": "en",
+          "title": "The Life of Justice Harrison"
+        },
+        {
+          "event_id": "55c36fc9fc59b929b3faea03",
+          "start_time": 360,
+          "duration": 74,
+          "lang": "en",
+          "title": "The Mishaps of Poole Solis"
+        },
+        {
+          "event_id": "55c36fc9d0f04cc5fc5afa03",
+          "start_time": 480,
+          "duration": 79,
+          "lang": "en",
+          "title": "The Betrayal of Jacobs Serrano"
+        },
+        {
+          "event_id": "55c36fc93be3f215dede4ee9",
+          "start_time": 600,
+          "duration": 75,
+          "lang": "en",
+          "title": "The Story of Audra Fulton"
+        },
+        {
+          "event_id": "55c36fc9733009e1df2c5459",
+          "start_time": 720,
+          "duration": 81,
+          "lang": "en",
+          "title": "The Mishaps of Wilson Hardin"
+        },
+        {
+          "event_id": "55c36fc93629ee72486b141b",
+          "start_time": 840,
+          "duration": 65,
+          "lang": "en",
+          "title": "The Story of Terry Goodman"
+        },
+        {
+          "event_id": "55c36fc998b3a19dd7c36ab6",
+          "start_time": 960,
+          "duration": 119,
+          "lang": "en",
+          "title": "The Mishaps of Cooley Fischer"
+        },
+        {
+          "event_id": "55c36fc9a6d295059c748cdc",
+          "start_time": 1080,
+          "duration": 69,
+          "lang": "en",
+          "title": "The Story of Cline Mack"
+        },
+        {
+          "event_id": "55c36fc9b30da7be87b2d0ce",
+          "start_time": 1200,
+          "duration": 72,
+          "lang": "en",
+          "title": "The Story of Aguirre Dean"
+        },
+        {
+          "event_id": "55c36fc9b47bae965f97c4ae",
+          "start_time": 1320,
+          "duration": 62,
+          "lang": "en",
+          "title": "The Adventures of Kelley Armstrong"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc9747182cc581c8fe7",
+    "channel_name": "ESPN",
+    "channel_number": 191,
+    "category": [
+      "sports",
+      "drama",
+      "reality"
+    ],
+    "description": "Magna enim dolore laboris consectetur Lorem anim aliqua veniam velit laboris enim occaecat exercitation. Enim mollit nostrud commodo voluptate incididunt duis exercitation. Fugiat aliquip ut irure Lorem adipisicing. Quis esse non cillum reprehenderit tempor. Labore minim proident ipsum mollit non cillum. Cupidatat excepteur quis commodo nostrud consectetur eiusmod nisi cupidatat ut Lorem nostrud ipsum ex et.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/ESPN.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9f7cefd7dc41666ed",
+          "start_time": 0,
+          "duration": 112,
+          "lang": "en",
+          "title": "The Betrayal of Norton Short"
+        },
+        {
+          "event_id": "55c36fc9608a9591c4036f0c",
+          "start_time": 120,
+          "duration": 98,
+          "lang": "en",
+          "title": "The Mishaps of Keisha Woods"
+        },
+        {
+          "event_id": "55c36fc9758aa870db90f4ac",
+          "start_time": 240,
+          "duration": 99,
+          "lang": "en",
+          "title": "The Betrayal of April Callahan"
+        },
+        {
+          "event_id": "55c36fc95b21f890cc05fd44",
+          "start_time": 360,
+          "duration": 94,
+          "lang": "en",
+          "title": "The Story of Curtis Rodgers"
+        },
+        {
+          "event_id": "55c36fc90f53e005fa494236",
+          "start_time": 480,
+          "duration": 120,
+          "lang": "en",
+          "title": "The Adventures of Bell Mcfarland"
+        },
+        {
+          "event_id": "55c36fc99ddf45ce758d1fe9",
+          "start_time": 600,
+          "duration": 62,
+          "lang": "en",
+          "title": "The Story of Guerra Wallace"
+        },
+        {
+          "event_id": "55c36fc975a1bdc860af1b02",
+          "start_time": 720,
+          "duration": 115,
+          "lang": "en",
+          "title": "The Life of Gilmore Dawson"
+        },
+        {
+          "event_id": "55c36fc93abfff593f30f4e4",
+          "start_time": 840,
+          "duration": 119,
+          "lang": "en",
+          "title": "The Mishaps of Willa Blackwell"
+        },
+        {
+          "event_id": "55c36fc9d32fb4a90be8d424",
+          "start_time": 960,
+          "duration": 107,
+          "lang": "en",
+          "title": "The Story of Brandy Boyd"
+        },
+        {
+          "event_id": "55c36fc96fc18712228743fd",
+          "start_time": 1080,
+          "duration": 76,
+          "lang": "en",
+          "title": "The Story of Grimes Robles"
+        },
+        {
+          "event_id": "55c36fc92135fa808dd65eaa",
+          "start_time": 1200,
+          "duration": 93,
+          "lang": "en",
+          "title": "The Story of Calderon Sawyer"
+        },
+        {
+          "event_id": "55c36fc9a593bb12be6a8975",
+          "start_time": 1320,
+          "duration": 63,
+          "lang": "en",
+          "title": "The Mishaps of Wolf Buchanan"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc9095d2fbce27de898",
+    "channel_name": "DIS",
+    "channel_number": 342,
+    "category": [
+      "adventure",
+      "sports",
+      "adventure"
+    ],
+    "description": "Magna dolore aliquip voluptate Lorem consectetur Lorem. Proident ea nostrud esse minim pariatur quis exercitation. Magna consectetur do enim voluptate amet eu ullamco irure eu sunt cillum. Minim ad labore adipisicing labore enim ea laboris consequat aute ex. Lorem cupidatat proident dolore exercitation elit do non anim consequat anim.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/DIS.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc93f136c76d155efbf",
+          "start_time": 0,
+          "duration": 75,
+          "lang": "en",
+          "title": "The Mishaps of Dotson Henson"
+        },
+        {
+          "event_id": "55c36fc99273107dae545b1f",
+          "start_time": 120,
+          "duration": 118,
+          "lang": "en",
+          "title": "The Story of Cunningham Compton"
+        },
+        {
+          "event_id": "55c36fc9c9d4a72d3beaad1f",
+          "start_time": 240,
+          "duration": 117,
+          "lang": "en",
+          "title": "The Life of Margery Dillard"
+        },
+        {
+          "event_id": "55c36fc9aacfbfa02a52bc02",
+          "start_time": 360,
+          "duration": 103,
+          "lang": "en",
+          "title": "The Adventures of Marion Obrien"
+        },
+        {
+          "event_id": "55c36fc905a0646e2301165a",
+          "start_time": 480,
+          "duration": 90,
+          "lang": "en",
+          "title": "The Betrayal of Burt Winters"
+        },
+        {
+          "event_id": "55c36fc9c43ddaf2ae2b181d",
+          "start_time": 600,
+          "duration": 107,
+          "lang": "en",
+          "title": "The Adventures of Miranda Knight"
+        },
+        {
+          "event_id": "55c36fc9bef8496bb33ee17a",
+          "start_time": 720,
+          "duration": 82,
+          "lang": "en",
+          "title": "The Life of Rhoda Mcmahon"
+        },
+        {
+          "event_id": "55c36fc9c54fabc02c145ecb",
+          "start_time": 840,
+          "duration": 98,
+          "lang": "en",
+          "title": "The Story of Bowers Johnson"
+        },
+        {
+          "event_id": "55c36fc9c8586858562ea1d9",
+          "start_time": 960,
+          "duration": 82,
+          "lang": "en",
+          "title": "The Mishaps of Christine Holcomb"
+        },
+        {
+          "event_id": "55c36fc9aca2ed5661a4fb99",
+          "start_time": 1080,
+          "duration": 89,
+          "lang": "en",
+          "title": "The Story of Marlene Dorsey"
+        },
+        {
+          "event_id": "55c36fc9406cbf03e29fb6e0",
+          "start_time": 1200,
+          "duration": 72,
+          "lang": "en",
+          "title": "The Betrayal of Bette Cervantes"
+        },
+        {
+          "event_id": "55c36fc9b6922aec31f562cf",
+          "start_time": 1320,
+          "duration": 101,
+          "lang": "en",
+          "title": "The Betrayal of Potter Little"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc97d0a9be05e8c13da",
+    "channel_name": "AMC",
+    "channel_number": 390,
+    "category": [
+      "reality",
+      "adventure",
+      "drama"
+    ],
+    "description": "Ad et non ad proident deserunt quis voluptate. Ut incididunt minim reprehenderit occaecat quis pariatur aliqua sunt ad in duis deserunt. Mollit culpa amet consequat est non anim qui eu consequat. Fugiat incididunt est velit voluptate. Magna proident velit quis esse irure in Lorem ipsum Lorem veniam laborum. Lorem aliqua in excepteur consequat deserunt incididunt. Proident ullamco enim sit nostrud nisi culpa voluptate nulla aute in fugiat ullamco.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/AMC.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc90dd5750ca6fa9ac1",
+          "start_time": 0,
+          "duration": 63,
+          "lang": "en",
+          "title": "The Betrayal of Carolina Brady"
+        },
+        {
+          "event_id": "55c36fc9c385cc715e43f770",
+          "start_time": 120,
+          "duration": 101,
+          "lang": "en",
+          "title": "The Story of Adrienne Murphy"
+        },
+        {
+          "event_id": "55c36fc98910217d15aa0bdf",
+          "start_time": 240,
+          "duration": 108,
+          "lang": "en",
+          "title": "The Betrayal of Traci Mosley"
+        },
+        {
+          "event_id": "55c36fc9f76aba9efdf4f47c",
+          "start_time": 360,
+          "duration": 63,
+          "lang": "en",
+          "title": "The Betrayal of Lowery Stafford"
+        },
+        {
+          "event_id": "55c36fc93bd63ae299939329",
+          "start_time": 480,
+          "duration": 66,
+          "lang": "en",
+          "title": "The Mishaps of Marshall Chase"
+        },
+        {
+          "event_id": "55c36fc9e361fdf4f1be5b35",
+          "start_time": 600,
+          "duration": 75,
+          "lang": "en",
+          "title": "The Life of Rae Pate"
+        },
+        {
+          "event_id": "55c36fc9346b0df5ccff4fde",
+          "start_time": 720,
+          "duration": 68,
+          "lang": "en",
+          "title": "The Adventures of Mercedes Baker"
+        },
+        {
+          "event_id": "55c36fc9f666e48f43b38a82",
+          "start_time": 840,
+          "duration": 82,
+          "lang": "en",
+          "title": "The Adventures of Winnie Curtis"
+        },
+        {
+          "event_id": "55c36fc941665acda9926b01",
+          "start_time": 960,
+          "duration": 73,
+          "lang": "en",
+          "title": "The Life of Salinas Cohen"
+        },
+        {
+          "event_id": "55c36fc92329f525cc136429",
+          "start_time": 1080,
+          "duration": 83,
+          "lang": "en",
+          "title": "The Adventures of Irma Gray"
+        },
+        {
+          "event_id": "55c36fc98cb44f89597d4e39",
+          "start_time": 1200,
+          "duration": 118,
+          "lang": "en",
+          "title": "The Mishaps of Bradford England"
+        },
+        {
+          "event_id": "55c36fc96ca45e7d128980c3",
+          "start_time": 1320,
+          "duration": 102,
+          "lang": "en",
+          "title": "The Adventures of Cleveland Irwin"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc9dacc84b96eaa85f5",
+    "channel_name": "DIS",
+    "channel_number": 291,
+    "category": [
+      "adventure",
+      "adventure",
+      "reality"
+    ],
+    "description": "Quis amet proident id pariatur est nulla sunt proident sit sint voluptate et ad. Exercitation fugiat occaecat amet velit sunt nostrud ipsum velit pariatur aute culpa dolor est ex. Et cillum dolore enim enim adipisicing dolore amet incididunt est adipisicing aliquip. Lorem nostrud cupidatat eu mollit qui deserunt qui. Cupidatat et ipsum ipsum id eiusmod dolor Lorem est laborum et labore. Anim exercitation sit ut enim commodo ipsum eu minim. Cupidatat sit adipisicing quis fugiat amet eu adipisicing laboris adipisicing fugiat esse quis.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/DIS.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9ef69f5897efac327",
+          "start_time": 0,
+          "duration": 68,
+          "lang": "en",
+          "title": "The Adventures of Patton Rice"
+        },
+        {
+          "event_id": "55c36fc9479a83632c96476e",
+          "start_time": 120,
+          "duration": 119,
+          "lang": "en",
+          "title": "The Life of Marquita Beard"
+        },
+        {
+          "event_id": "55c36fc96788607b7c61805b",
+          "start_time": 240,
+          "duration": 90,
+          "lang": "en",
+          "title": "The Mishaps of Louise Conner"
+        },
+        {
+          "event_id": "55c36fc95c31b959fddff79c",
+          "start_time": 360,
+          "duration": 104,
+          "lang": "en",
+          "title": "The Life of Marianne Terry"
+        },
+        {
+          "event_id": "55c36fc902ff4d9086590f30",
+          "start_time": 480,
+          "duration": 111,
+          "lang": "en",
+          "title": "The Mishaps of Mcbride Norris"
+        },
+        {
+          "event_id": "55c36fc93b7a227be5d4a65f",
+          "start_time": 600,
+          "duration": 105,
+          "lang": "en",
+          "title": "The Betrayal of Fannie Dominguez"
+        },
+        {
+          "event_id": "55c36fc92bd690c673bb950e",
+          "start_time": 720,
+          "duration": 75,
+          "lang": "en",
+          "title": "The Life of Sylvia Whitley"
+        },
+        {
+          "event_id": "55c36fc9d7a8fc6bc9abda44",
+          "start_time": 840,
+          "duration": 96,
+          "lang": "en",
+          "title": "The Life of Murphy Christensen"
+        },
+        {
+          "event_id": "55c36fc923f8ddafbaedfe50",
+          "start_time": 960,
+          "duration": 83,
+          "lang": "en",
+          "title": "The Adventures of Haley Haynes"
+        },
+        {
+          "event_id": "55c36fc90191c9e5c9cf7d79",
+          "start_time": 1080,
+          "duration": 88,
+          "lang": "en",
+          "title": "The Adventures of Mcknight Rodriquez"
+        },
+        {
+          "event_id": "55c36fc92d4980b563b15b78",
+          "start_time": 1200,
+          "duration": 96,
+          "lang": "en",
+          "title": "The Adventures of Lorene Roman"
+        },
+        {
+          "event_id": "55c36fc9bebfe1c277513f94",
+          "start_time": 1320,
+          "duration": 82,
+          "lang": "en",
+          "title": "The Life of Faith Graham"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc95025af1e76ed3958",
+    "channel_name": "ABC",
+    "channel_number": 171,
+    "category": [
+      "adventure",
+      "action",
+      "sports"
+    ],
+    "description": "Ut anim in sint eiusmod id. Quis excepteur tempor aliqua sunt exercitation sunt sit id laboris enim nulla. Consectetur commodo commodo ipsum mollit. Sit ipsum dolor laboris tempor consectetur id fugiat quis tempor.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/ABC.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9908532c70c8b5f75",
+          "start_time": 0,
+          "duration": 63,
+          "lang": "en",
+          "title": "The Betrayal of Yvette Leach"
+        },
+        {
+          "event_id": "55c36fc9247aa9c48eaffb08",
+          "start_time": 120,
+          "duration": 82,
+          "lang": "en",
+          "title": "The Adventures of Craft Shepherd"
+        },
+        {
+          "event_id": "55c36fc939cf89c59229a312",
+          "start_time": 240,
+          "duration": 90,
+          "lang": "en",
+          "title": "The Adventures of Rogers Morris"
+        },
+        {
+          "event_id": "55c36fc94812a504bb654cfa",
+          "start_time": 360,
+          "duration": 89,
+          "lang": "en",
+          "title": "The Betrayal of Diane Mcfadden"
+        },
+        {
+          "event_id": "55c36fc9025c635a76fb6b1e",
+          "start_time": 480,
+          "duration": 69,
+          "lang": "en",
+          "title": "The Betrayal of Becker Landry"
+        },
+        {
+          "event_id": "55c36fc90e0c5c950d186b77",
+          "start_time": 600,
+          "duration": 74,
+          "lang": "en",
+          "title": "The Story of Fernandez Weiss"
+        },
+        {
+          "event_id": "55c36fc9e456d23668c18b87",
+          "start_time": 720,
+          "duration": 73,
+          "lang": "en",
+          "title": "The Story of Nona Holder"
+        },
+        {
+          "event_id": "55c36fc9fb33d82fe92798b2",
+          "start_time": 840,
+          "duration": 104,
+          "lang": "en",
+          "title": "The Betrayal of Long Beach"
+        },
+        {
+          "event_id": "55c36fc964e5754a6d7561f5",
+          "start_time": 960,
+          "duration": 61,
+          "lang": "en",
+          "title": "The Betrayal of Hess Mann"
+        },
+        {
+          "event_id": "55c36fc929f43aea381c0981",
+          "start_time": 1080,
+          "duration": 92,
+          "lang": "en",
+          "title": "The Betrayal of Cote Romero"
+        },
+        {
+          "event_id": "55c36fc93ed5204cba54c9b7",
+          "start_time": 1200,
+          "duration": 77,
+          "lang": "en",
+          "title": "The Betrayal of Schroeder Rosa"
+        },
+        {
+          "event_id": "55c36fc9662add8cbf39dc03",
+          "start_time": 1320,
+          "duration": 69,
+          "lang": "en",
+          "title": "The Betrayal of Doris Shaw"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc9904506a564031b6a",
+    "channel_name": "NBC",
+    "channel_number": 222,
+    "category": [
+      "drama",
+      "sports",
+      "action"
+    ],
+    "description": "Et veniam ea nulla Lorem proident. Ex consequat ex magna culpa veniam elit tempor nulla occaecat qui commodo. Do qui Lorem exercitation eiusmod. Sit labore eu qui enim exercitation dolor. Cupidatat cillum in esse nostrud Lorem exercitation culpa.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/NBC.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc920c6e57de962194d",
+          "start_time": 0,
+          "duration": 84,
+          "lang": "en",
+          "title": "The Betrayal of Willie Riley"
+        },
+        {
+          "event_id": "55c36fc9187d1f2bb5551066",
+          "start_time": 120,
+          "duration": 117,
+          "lang": "en",
+          "title": "The Betrayal of May Franco"
+        },
+        {
+          "event_id": "55c36fc92c185ca07d474d2a",
+          "start_time": 240,
+          "duration": 110,
+          "lang": "en",
+          "title": "The Adventures of Sykes Fletcher"
+        },
+        {
+          "event_id": "55c36fc9e5d8b0ce93ab1c88",
+          "start_time": 360,
+          "duration": 63,
+          "lang": "en",
+          "title": "The Story of Freida Tate"
+        },
+        {
+          "event_id": "55c36fc9169ebad39bd23888",
+          "start_time": 480,
+          "duration": 99,
+          "lang": "en",
+          "title": "The Story of Katy Valentine"
+        },
+        {
+          "event_id": "55c36fc94b9b08aa15b5e227",
+          "start_time": 600,
+          "duration": 76,
+          "lang": "en",
+          "title": "The Life of Livingston Adkins"
+        },
+        {
+          "event_id": "55c36fc99c2ac272cc4c2730",
+          "start_time": 720,
+          "duration": 68,
+          "lang": "en",
+          "title": "The Betrayal of Haynes Stevenson"
+        },
+        {
+          "event_id": "55c36fc976b05bc8c9dbcc67",
+          "start_time": 840,
+          "duration": 98,
+          "lang": "en",
+          "title": "The Betrayal of Socorro Hardy"
+        },
+        {
+          "event_id": "55c36fc93417c528ec3e9984",
+          "start_time": 960,
+          "duration": 88,
+          "lang": "en",
+          "title": "The Adventures of Mariana Hahn"
+        },
+        {
+          "event_id": "55c36fc9c703bb909adc515f",
+          "start_time": 1080,
+          "duration": 68,
+          "lang": "en",
+          "title": "The Mishaps of Hays Fuller"
+        },
+        {
+          "event_id": "55c36fc9cbb4a12611d72757",
+          "start_time": 1200,
+          "duration": 61,
+          "lang": "en",
+          "title": "The Adventures of Daugherty Rios"
+        },
+        {
+          "event_id": "55c36fc9c9c075a0cb3074aa",
+          "start_time": 1320,
+          "duration": 74,
+          "lang": "en",
+          "title": "The Story of Donaldson Walls"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc903a9716b0bc90119",
+    "channel_name": "FOX",
+    "channel_number": 234,
+    "category": [
+      "drama",
+      "action",
+      "sports"
+    ],
+    "description": "Non laboris culpa incididunt consectetur et aliquip aliquip qui exercitation. Dolor anim ut elit incididunt tempor sint cupidatat eiusmod. Nostrud officia deserunt et nostrud anim laboris.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/FOX.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc975b3f65cf988187b",
+          "start_time": 0,
+          "duration": 109,
+          "lang": "en",
+          "title": "The Life of Eve Vang"
+        },
+        {
+          "event_id": "55c36fc9a47c9c74361a0457",
+          "start_time": 120,
+          "duration": 108,
+          "lang": "en",
+          "title": "The Story of Therese Foley"
+        },
+        {
+          "event_id": "55c36fc957df122b121d8ed3",
+          "start_time": 240,
+          "duration": 83,
+          "lang": "en",
+          "title": "The Mishaps of Bonnie Velazquez"
+        },
+        {
+          "event_id": "55c36fc9f73e5b4a09f26282",
+          "start_time": 360,
+          "duration": 92,
+          "lang": "en",
+          "title": "The Mishaps of Jackie Henry"
+        },
+        {
+          "event_id": "55c36fc93bf41470811b6dfc",
+          "start_time": 480,
+          "duration": 72,
+          "lang": "en",
+          "title": "The Adventures of Janie Potts"
+        },
+        {
+          "event_id": "55c36fc978604b9bd714c131",
+          "start_time": 600,
+          "duration": 116,
+          "lang": "en",
+          "title": "The Mishaps of Marisa Dodson"
+        },
+        {
+          "event_id": "55c36fc939193d489c219957",
+          "start_time": 720,
+          "duration": 73,
+          "lang": "en",
+          "title": "The Betrayal of Carlson Kinney"
+        },
+        {
+          "event_id": "55c36fc9a15a08bababec460",
+          "start_time": 840,
+          "duration": 91,
+          "lang": "en",
+          "title": "The Mishaps of Charlotte Peters"
+        },
+        {
+          "event_id": "55c36fc9cbff9a2066a64de8",
+          "start_time": 960,
+          "duration": 87,
+          "lang": "en",
+          "title": "The Story of Addie Yang"
+        },
+        {
+          "event_id": "55c36fc923ca321bc8cb3c0c",
+          "start_time": 1080,
+          "duration": 63,
+          "lang": "en",
+          "title": "The Story of Edna Buckley"
+        },
+        {
+          "event_id": "55c36fc909b6dd1197783048",
+          "start_time": 1200,
+          "duration": 97,
+          "lang": "en",
+          "title": "The Betrayal of Wilkerson Black"
+        },
+        {
+          "event_id": "55c36fc90b1b8a5c99e024d1",
+          "start_time": 1320,
+          "duration": 71,
+          "lang": "en",
+          "title": "The Story of Nelson Shepard"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc98fc776d0fd485f3a",
+    "channel_name": "AMC",
+    "channel_number": 388,
+    "category": [
+      "sports",
+      "drama",
+      "action"
+    ],
+    "description": "Ea pariatur quis veniam reprehenderit qui consectetur eiusmod labore eu adipisicing ut nostrud aute reprehenderit. Cupidatat eiusmod eu aute adipisicing enim veniam pariatur. Incididunt adipisicing eu nostrud amet sit. Dolore pariatur velit eu occaecat. Do ad aliqua et dolore officia esse dolor.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/AMC.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9e2af1ef002d52abb",
+          "start_time": 0,
+          "duration": 114,
+          "lang": "en",
+          "title": "The Betrayal of Hilda Herring"
+        },
+        {
+          "event_id": "55c36fc94538f615621dfe2a",
+          "start_time": 120,
+          "duration": 111,
+          "lang": "en",
+          "title": "The Adventures of Concetta Nash"
+        },
+        {
+          "event_id": "55c36fc962042244c4b8c0e3",
+          "start_time": 240,
+          "duration": 119,
+          "lang": "en",
+          "title": "The Betrayal of Conrad Key"
+        },
+        {
+          "event_id": "55c36fc9802f738c92e90a0f",
+          "start_time": 360,
+          "duration": 84,
+          "lang": "en",
+          "title": "The Life of Holmes Beasley"
+        },
+        {
+          "event_id": "55c36fc9911c5a15f280bd9f",
+          "start_time": 480,
+          "duration": 105,
+          "lang": "en",
+          "title": "The Story of Wright Pena"
+        },
+        {
+          "event_id": "55c36fc9052acebd877b82a3",
+          "start_time": 600,
+          "duration": 73,
+          "lang": "en",
+          "title": "The Story of Polly Douglas"
+        },
+        {
+          "event_id": "55c36fc9be28839683feafe4",
+          "start_time": 720,
+          "duration": 96,
+          "lang": "en",
+          "title": "The Betrayal of Stephenson Mathis"
+        },
+        {
+          "event_id": "55c36fc968a046333cc1093f",
+          "start_time": 840,
+          "duration": 77,
+          "lang": "en",
+          "title": "The Life of Head Kramer"
+        },
+        {
+          "event_id": "55c36fc91ac617f5f99e3689",
+          "start_time": 960,
+          "duration": 93,
+          "lang": "en",
+          "title": "The Story of Victoria Morse"
+        },
+        {
+          "event_id": "55c36fc9a997d8a28a1fcebc",
+          "start_time": 1080,
+          "duration": 111,
+          "lang": "en",
+          "title": "The Story of Maura Mccoy"
+        },
+        {
+          "event_id": "55c36fc927ea19ebde0f380c",
+          "start_time": 1200,
+          "duration": 76,
+          "lang": "en",
+          "title": "The Life of Mullen Oliver"
+        },
+        {
+          "event_id": "55c36fc96c91b980e2c5e052",
+          "start_time": 1320,
+          "duration": 61,
+          "lang": "en",
+          "title": "The Life of Wells Dickson"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc95b37e555be1f33e5",
+    "channel_name": "APL",
+    "channel_number": 355,
+    "category": [
+      "sports",
+      "action",
+      "drama"
+    ],
+    "description": "Excepteur eu pariatur eu pariatur enim ea aliqua fugiat elit. Et dolore non labore culpa deserunt irure exercitation non laborum. Occaecat ut ullamco minim quis ex minim in fugiat. Occaecat sunt nostrud cillum aute reprehenderit ea non nisi qui cupidatat nostrud. In mollit nisi qui cillum dolore quis elit consectetur. Nisi magna proident id tempor sunt elit.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/APL.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc99a9b693954e757ae",
+          "start_time": 0,
+          "duration": 113,
+          "lang": "en",
+          "title": "The Life of Marjorie Ray"
+        },
+        {
+          "event_id": "55c36fc9f06c3daf8a08431c",
+          "start_time": 120,
+          "duration": 118,
+          "lang": "en",
+          "title": "The Mishaps of Daniel Fisher"
+        },
+        {
+          "event_id": "55c36fc9c104583cf547b59d",
+          "start_time": 240,
+          "duration": 65,
+          "lang": "en",
+          "title": "The Life of Young Mcguire"
+        },
+        {
+          "event_id": "55c36fc98a2641f433141d4c",
+          "start_time": 360,
+          "duration": 92,
+          "lang": "en",
+          "title": "The Story of Henson Frazier"
+        },
+        {
+          "event_id": "55c36fc93ef9c6773f4ec7a0",
+          "start_time": 480,
+          "duration": 106,
+          "lang": "en",
+          "title": "The Betrayal of Sampson Lester"
+        },
+        {
+          "event_id": "55c36fc9938a9e60d9bd72f9",
+          "start_time": 600,
+          "duration": 106,
+          "lang": "en",
+          "title": "The Mishaps of Cynthia Patterson"
+        },
+        {
+          "event_id": "55c36fc9567cb5592c7abe8d",
+          "start_time": 720,
+          "duration": 66,
+          "lang": "en",
+          "title": "The Story of Helene Golden"
+        },
+        {
+          "event_id": "55c36fc9537b64cccd890fc9",
+          "start_time": 840,
+          "duration": 61,
+          "lang": "en",
+          "title": "The Adventures of Wendy Lambert"
+        },
+        {
+          "event_id": "55c36fc9cd8748932962dfcd",
+          "start_time": 960,
+          "duration": 88,
+          "lang": "en",
+          "title": "The Betrayal of Lott Harding"
+        },
+        {
+          "event_id": "55c36fc9446a682a2b154006",
+          "start_time": 1080,
+          "duration": 108,
+          "lang": "en",
+          "title": "The Story of Arlene Emerson"
+        },
+        {
+          "event_id": "55c36fc9bf989e58dd77485a",
+          "start_time": 1200,
+          "duration": 94,
+          "lang": "en",
+          "title": "The Mishaps of Sharon Benton"
+        },
+        {
+          "event_id": "55c36fc96d5e92ba0095f5c9",
+          "start_time": 1320,
+          "duration": 60,
+          "lang": "en",
+          "title": "The Story of Kitty Townsend"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc9d985e861299b088b",
+    "channel_name": "CBS",
+    "channel_number": 386,
+    "category": [
+      "adventure",
+      "action",
+      "drama"
+    ],
+    "description": "Tempor voluptate dolor consectetur voluptate. Adipisicing velit consectetur enim et tempor consequat aliquip Lorem labore nostrud pariatur adipisicing. Et ut non Lorem cupidatat.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/CBS.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc993bac9e79d38dee9",
+          "start_time": 0,
+          "duration": 114,
+          "lang": "en",
+          "title": "The Life of Wanda Gibson"
+        },
+        {
+          "event_id": "55c36fc9f0c2f180ea141e9e",
+          "start_time": 120,
+          "duration": 115,
+          "lang": "en",
+          "title": "The Adventures of Austin Strickland"
+        },
+        {
+          "event_id": "55c36fc9835ab1ffce18b918",
+          "start_time": 240,
+          "duration": 85,
+          "lang": "en",
+          "title": "The Mishaps of Paige Waters"
+        },
+        {
+          "event_id": "55c36fc96d97f37ce3e5d459",
+          "start_time": 360,
+          "duration": 99,
+          "lang": "en",
+          "title": "The Story of Olive Miranda"
+        },
+        {
+          "event_id": "55c36fc974d1293b880f2eb1",
+          "start_time": 480,
+          "duration": 84,
+          "lang": "en",
+          "title": "The Betrayal of Gayle Ramos"
+        },
+        {
+          "event_id": "55c36fc9d26f7d40e9ecb652",
+          "start_time": 600,
+          "duration": 119,
+          "lang": "en",
+          "title": "The Betrayal of Carey Walker"
+        },
+        {
+          "event_id": "55c36fc9c4b89c7c07bcb1ef",
+          "start_time": 720,
+          "duration": 104,
+          "lang": "en",
+          "title": "The Story of Beach Salinas"
+        },
+        {
+          "event_id": "55c36fc9b9e4cc05d839fee3",
+          "start_time": 840,
+          "duration": 73,
+          "lang": "en",
+          "title": "The Betrayal of Browning Peterson"
+        },
+        {
+          "event_id": "55c36fc9be286f9953ce6a8a",
+          "start_time": 960,
+          "duration": 66,
+          "lang": "en",
+          "title": "The Betrayal of Clayton Houston"
+        },
+        {
+          "event_id": "55c36fc966fddb9eea711639",
+          "start_time": 1080,
+          "duration": 73,
+          "lang": "en",
+          "title": "The Mishaps of Erika Koch"
+        },
+        {
+          "event_id": "55c36fc90266a3f4be88d084",
+          "start_time": 1200,
+          "duration": 62,
+          "lang": "en",
+          "title": "The Betrayal of Mcdaniel West"
+        },
+        {
+          "event_id": "55c36fc9ab7f4c6e8c4ef513",
+          "start_time": 1320,
+          "duration": 72,
+          "lang": "en",
+          "title": "The Life of Kerri Wheeler"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc9ae9f02ae63429a9b",
+    "channel_name": "DIS",
+    "channel_number": 199,
+    "category": [
+      "sports",
+      "reality",
+      "action"
+    ],
+    "description": "Veniam esse eiusmod excepteur non. Veniam cillum ea laborum mollit pariatur velit incididunt veniam anim qui. Laboris in qui labore tempor fugiat fugiat ullamco fugiat consectetur pariatur cillum cupidatat incididunt pariatur. Cillum quis laboris deserunt deserunt sit eu ullamco deserunt quis excepteur fugiat incididunt exercitation. Cillum cupidatat nostrud aute consectetur labore cillum id id laboris duis elit.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/DIS.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9fcf367b94e4823da",
+          "start_time": 0,
+          "duration": 113,
+          "lang": "en",
+          "title": "The Mishaps of Petty Lee"
+        },
+        {
+          "event_id": "55c36fc99cc8990d44074138",
+          "start_time": 120,
+          "duration": 101,
+          "lang": "en",
+          "title": "The Mishaps of Phelps Cummings"
+        },
+        {
+          "event_id": "55c36fc9aa9651078c748d68",
+          "start_time": 240,
+          "duration": 68,
+          "lang": "en",
+          "title": "The Story of Hilary Everett"
+        },
+        {
+          "event_id": "55c36fc97a557c1207a35154",
+          "start_time": 360,
+          "duration": 79,
+          "lang": "en",
+          "title": "The Adventures of Stein Sheppard"
+        },
+        {
+          "event_id": "55c36fc98912c187a38775b6",
+          "start_time": 480,
+          "duration": 115,
+          "lang": "en",
+          "title": "The Story of Jefferson Reed"
+        },
+        {
+          "event_id": "55c36fc93ea7f0dcedbc4884",
+          "start_time": 600,
+          "duration": 63,
+          "lang": "en",
+          "title": "The Mishaps of Galloway Puckett"
+        },
+        {
+          "event_id": "55c36fc98b815607f6d96cbe",
+          "start_time": 720,
+          "duration": 102,
+          "lang": "en",
+          "title": "The Adventures of Maritza Mendez"
+        },
+        {
+          "event_id": "55c36fc9fea504dcbdee4ff7",
+          "start_time": 840,
+          "duration": 83,
+          "lang": "en",
+          "title": "The Life of Weeks Long"
+        },
+        {
+          "event_id": "55c36fc9415965cf830bb108",
+          "start_time": 960,
+          "duration": 85,
+          "lang": "en",
+          "title": "The Mishaps of Rosalinda Atkinson"
+        },
+        {
+          "event_id": "55c36fc924276096fd042e27",
+          "start_time": 1080,
+          "duration": 117,
+          "lang": "en",
+          "title": "The Adventures of Gwen Guerra"
+        },
+        {
+          "event_id": "55c36fc968764fbd523bec16",
+          "start_time": 1200,
+          "duration": 97,
+          "lang": "en",
+          "title": "The Life of Randall Phelps"
+        },
+        {
+          "event_id": "55c36fc9482de48a83dc3c0a",
+          "start_time": 1320,
+          "duration": 98,
+          "lang": "en",
+          "title": "The Mishaps of Casandra Tyson"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc911c9a6dee9069e78",
+    "channel_name": "PBS",
+    "channel_number": 345,
+    "category": [
+      "adventure",
+      "adventure",
+      "action"
+    ],
+    "description": "Qui ea et eiusmod adipisicing tempor cupidatat consequat nulla nostrud enim. Ad laborum amet quis reprehenderit ad deserunt minim minim commodo velit et eiusmod eiusmod nostrud. Cillum ea ad aliquip aliqua labore quis aliquip eu proident excepteur eiusmod.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/PBS.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9b091bc0da44d1ed6",
+          "start_time": 0,
+          "duration": 119,
+          "lang": "en",
+          "title": "The Adventures of Gaines Strong"
+        },
+        {
+          "event_id": "55c36fc97d7b78aaaf4bc6dc",
+          "start_time": 120,
+          "duration": 60,
+          "lang": "en",
+          "title": "The Adventures of Krystal Melton"
+        },
+        {
+          "event_id": "55c36fc948a0444d3422aad3",
+          "start_time": 240,
+          "duration": 86,
+          "lang": "en",
+          "title": "The Life of Peck Dunlap"
+        },
+        {
+          "event_id": "55c36fc9e5c43d55c70e449c",
+          "start_time": 360,
+          "duration": 66,
+          "lang": "en",
+          "title": "The Mishaps of Andrea Atkins"
+        },
+        {
+          "event_id": "55c36fc96597d57e12897671",
+          "start_time": 480,
+          "duration": 81,
+          "lang": "en",
+          "title": "The Life of Leah Fowler"
+        },
+        {
+          "event_id": "55c36fc90f5316c4258559c7",
+          "start_time": 600,
+          "duration": 118,
+          "lang": "en",
+          "title": "The Story of Hodges Gould"
+        },
+        {
+          "event_id": "55c36fc919f795927a798126",
+          "start_time": 720,
+          "duration": 60,
+          "lang": "en",
+          "title": "The Story of Pearson Huff"
+        },
+        {
+          "event_id": "55c36fc9c726dbfa77e13c2d",
+          "start_time": 840,
+          "duration": 98,
+          "lang": "en",
+          "title": "The Mishaps of Elaine Hendricks"
+        },
+        {
+          "event_id": "55c36fc904aff0cb15b518a9",
+          "start_time": 960,
+          "duration": 112,
+          "lang": "en",
+          "title": "The Life of Herring Cantu"
+        },
+        {
+          "event_id": "55c36fc9a0265ed71f879b6c",
+          "start_time": 1080,
+          "duration": 115,
+          "lang": "en",
+          "title": "The Betrayal of Knox Merrill"
+        },
+        {
+          "event_id": "55c36fc967e2fba693bd8410",
+          "start_time": 1200,
+          "duration": 109,
+          "lang": "en",
+          "title": "The Mishaps of Sweet Ramsey"
+        },
+        {
+          "event_id": "55c36fc9ad896d9e6a4c309f",
+          "start_time": 1320,
+          "duration": 93,
+          "lang": "en",
+          "title": "The Life of Valdez Hart"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc927de03d80ac72572",
+    "channel_name": "MTV",
+    "channel_number": 250,
+    "category": [
+      "reality",
+      "reality",
+      "drama"
+    ],
+    "description": "Dolor minim sit aliquip ipsum nostrud consectetur ex minim minim. Et aute aliqua nisi ipsum culpa cupidatat sit consectetur consequat consequat est. Ullamco culpa eu minim laboris exercitation elit est aliqua occaecat dolor do quis. Lorem pariatur ex veniam est non occaecat Lorem dolore aliquip elit dolor adipisicing consectetur officia. Nulla velit consequat nulla eu eu laborum in eu in mollit nisi. Ea irure fugiat amet in cillum mollit consequat excepteur excepteur irure nostrud aliquip cupidatat.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/MTV.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc983d281693f74ac92",
+          "start_time": 0,
+          "duration": 115,
+          "lang": "en",
+          "title": "The Betrayal of Brittney Browning"
+        },
+        {
+          "event_id": "55c36fc96a8fb5eae56a5ee3",
+          "start_time": 120,
+          "duration": 82,
+          "lang": "en",
+          "title": "The Mishaps of Stewart Ward"
+        },
+        {
+          "event_id": "55c36fc900e32b12cbd85ece",
+          "start_time": 240,
+          "duration": 105,
+          "lang": "en",
+          "title": "The Betrayal of Neva Frost"
+        },
+        {
+          "event_id": "55c36fc96a599d44f5f17c49",
+          "start_time": 360,
+          "duration": 99,
+          "lang": "en",
+          "title": "The Betrayal of Collier Ryan"
+        },
+        {
+          "event_id": "55c36fc9176ace8a89717096",
+          "start_time": 480,
+          "duration": 109,
+          "lang": "en",
+          "title": "The Story of Benson Sutton"
+        },
+        {
+          "event_id": "55c36fc9239ca7009306348b",
+          "start_time": 600,
+          "duration": 114,
+          "lang": "en",
+          "title": "The Story of Marian Gill"
+        },
+        {
+          "event_id": "55c36fc91934b0127d8534d5",
+          "start_time": 720,
+          "duration": 85,
+          "lang": "en",
+          "title": "The Mishaps of Reilly Pugh"
+        },
+        {
+          "event_id": "55c36fc9f0f35a5069554e3f",
+          "start_time": 840,
+          "duration": 89,
+          "lang": "en",
+          "title": "The Betrayal of Megan Howell"
+        },
+        {
+          "event_id": "55c36fc9ee2a9f92d36f91f5",
+          "start_time": 960,
+          "duration": 98,
+          "lang": "en",
+          "title": "The Life of Lolita Nelson"
+        },
+        {
+          "event_id": "55c36fc971ae63b4b43c9384",
+          "start_time": 1080,
+          "duration": 80,
+          "lang": "en",
+          "title": "The Adventures of Vanessa Berger"
+        },
+        {
+          "event_id": "55c36fc9d971d3a07d7f7266",
+          "start_time": 1200,
+          "duration": 100,
+          "lang": "en",
+          "title": "The Life of Hebert Malone"
+        },
+        {
+          "event_id": "55c36fc96a8bbe500b2aed54",
+          "start_time": 1320,
+          "duration": 89,
+          "lang": "en",
+          "title": "The Life of Richmond Lynn"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc9bf9d31a38dc40a7d",
+    "channel_name": "ABC",
+    "channel_number": 324,
+    "category": [
+      "adventure",
+      "drama",
+      "drama"
+    ],
+    "description": "Nisi ea sint dolore deserunt commodo consectetur enim officia velit quis id elit quis laborum. Ipsum reprehenderit aliqua nisi nulla dolore voluptate ut id nisi. Culpa irure pariatur ex est eu proident laborum deserunt quis velit sint.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/ABC.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9bbb6fd85e1b8db76",
+          "start_time": 0,
+          "duration": 67,
+          "lang": "en",
+          "title": "The Betrayal of Hogan Jacobson"
+        },
+        {
+          "event_id": "55c36fc999a3467e4248d213",
+          "start_time": 120,
+          "duration": 120,
+          "lang": "en",
+          "title": "The Life of Ana Mcleod"
+        },
+        {
+          "event_id": "55c36fc98f8b504f0bed214a",
+          "start_time": 240,
+          "duration": 71,
+          "lang": "en",
+          "title": "The Betrayal of Candice Gallagher"
+        },
+        {
+          "event_id": "55c36fc93a68eb90ded6d5c9",
+          "start_time": 360,
+          "duration": 111,
+          "lang": "en",
+          "title": "The Life of Charles Abbott"
+        },
+        {
+          "event_id": "55c36fc98651a4fc804c5277",
+          "start_time": 480,
+          "duration": 63,
+          "lang": "en",
+          "title": "The Adventures of Duran Guzman"
+        },
+        {
+          "event_id": "55c36fc9c848edef159ada26",
+          "start_time": 600,
+          "duration": 67,
+          "lang": "en",
+          "title": "The Mishaps of Joyner Lowe"
+        },
+        {
+          "event_id": "55c36fc9eb32477e35fed5b1",
+          "start_time": 720,
+          "duration": 117,
+          "lang": "en",
+          "title": "The Betrayal of Mccormick Burns"
+        },
+        {
+          "event_id": "55c36fc9b8f392f12476bd9e",
+          "start_time": 840,
+          "duration": 97,
+          "lang": "en",
+          "title": "The Adventures of Maxwell York"
+        },
+        {
+          "event_id": "55c36fc9df5d5dad4ec1e565",
+          "start_time": 960,
+          "duration": 100,
+          "lang": "en",
+          "title": "The Mishaps of Tara Alford"
+        },
+        {
+          "event_id": "55c36fc95523199562e06323",
+          "start_time": 1080,
+          "duration": 98,
+          "lang": "en",
+          "title": "The Mishaps of Vinson Pruitt"
+        },
+        {
+          "event_id": "55c36fc9ac2d45b31981edae",
+          "start_time": 1200,
+          "duration": 113,
+          "lang": "en",
+          "title": "The Mishaps of Navarro Riggs"
+        },
+        {
+          "event_id": "55c36fc938b4e424ae10d9c8",
+          "start_time": 1320,
+          "duration": 118,
+          "lang": "en",
+          "title": "The Mishaps of Carson Waller"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc95aa753f9c345790d",
+    "channel_name": "PBS",
+    "channel_number": 36,
+    "category": [
+      "reality",
+      "adventure",
+      "sports"
+    ],
+    "description": "Est pariatur duis in quis sunt et commodo exercitation cupidatat et. Commodo occaecat quis id aute mollit commodo. Ea commodo cupidatat do quis id consequat sit deserunt ad esse Lorem. Laborum sint nostrud in reprehenderit aute enim aute labore ullamco commodo elit quis Lorem adipisicing. Ullamco et non veniam nulla labore eu commodo veniam reprehenderit qui occaecat magna. Aliquip quis enim aliquip minim non. Consectetur non anim ullamco dolore dolore.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/PBS.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc90ce5b6165d6cf281",
+          "start_time": 0,
+          "duration": 113,
+          "lang": "en",
+          "title": "The Mishaps of Berry Crosby"
+        },
+        {
+          "event_id": "55c36fc94f991ad72b4a7b15",
+          "start_time": 120,
+          "duration": 62,
+          "lang": "en",
+          "title": "The Story of Paulette Nielsen"
+        },
+        {
+          "event_id": "55c36fc9cc2dc71061e3d703",
+          "start_time": 240,
+          "duration": 99,
+          "lang": "en",
+          "title": "The Life of Gabrielle Mckee"
+        },
+        {
+          "event_id": "55c36fc94f4d96b7793d474e",
+          "start_time": 360,
+          "duration": 81,
+          "lang": "en",
+          "title": "The Betrayal of Morrison Watson"
+        },
+        {
+          "event_id": "55c36fc9f83563bdd5716ccf",
+          "start_time": 480,
+          "duration": 100,
+          "lang": "en",
+          "title": "The Adventures of Roseann Stein"
+        },
+        {
+          "event_id": "55c36fc9da480c70aafdfab3",
+          "start_time": 600,
+          "duration": 77,
+          "lang": "en",
+          "title": "The Adventures of Graciela Booker"
+        },
+        {
+          "event_id": "55c36fc92f61f385807b516b",
+          "start_time": 720,
+          "duration": 76,
+          "lang": "en",
+          "title": "The Story of Meagan Frederick"
+        },
+        {
+          "event_id": "55c36fc947a36bdc91cf7090",
+          "start_time": 840,
+          "duration": 120,
+          "lang": "en",
+          "title": "The Story of Crane Schmidt"
+        },
+        {
+          "event_id": "55c36fc9c1401015e7a99e36",
+          "start_time": 960,
+          "duration": 69,
+          "lang": "en",
+          "title": "The Story of Stark Griffin"
+        },
+        {
+          "event_id": "55c36fc9daf3e87dd7a14051",
+          "start_time": 1080,
+          "duration": 67,
+          "lang": "en",
+          "title": "The Life of Mckinney Holloway"
+        },
+        {
+          "event_id": "55c36fc90bf19c80803b629d",
+          "start_time": 1200,
+          "duration": 106,
+          "lang": "en",
+          "title": "The Life of Cherry Maynard"
+        },
+        {
+          "event_id": "55c36fc96e433d85736dcab0",
+          "start_time": 1320,
+          "duration": 78,
+          "lang": "en",
+          "title": "The Story of Dean Petersen"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc9d14d264443155007",
+    "channel_name": "AMC",
+    "channel_number": 315,
+    "category": [
+      "drama",
+      "action",
+      "sports"
+    ],
+    "description": "Laborum cupidatat anim labore laborum do aute consectetur enim proident eiusmod veniam occaecat exercitation. Enim exercitation nostrud commodo aliqua labore labore. Laboris deserunt esse eiusmod minim non commodo ut quis enim elit ea. Et ad elit incididunt voluptate.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/AMC.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc93ed271a802647329",
+          "start_time": 0,
+          "duration": 111,
+          "lang": "en",
+          "title": "The Story of Diana Small"
+        },
+        {
+          "event_id": "55c36fc928de52f6acdbeb40",
+          "start_time": 120,
+          "duration": 94,
+          "lang": "en",
+          "title": "The Mishaps of Wood Brewer"
+        },
+        {
+          "event_id": "55c36fc9b62626d22ee451bb",
+          "start_time": 240,
+          "duration": 108,
+          "lang": "en",
+          "title": "The Mishaps of May Wells"
+        },
+        {
+          "event_id": "55c36fc95e5641da87c191bc",
+          "start_time": 360,
+          "duration": 103,
+          "lang": "en",
+          "title": "The Life of Shepherd Frye"
+        },
+        {
+          "event_id": "55c36fc9839fbe2e36739f3c",
+          "start_time": 480,
+          "duration": 64,
+          "lang": "en",
+          "title": "The Betrayal of Angelita Pearson"
+        },
+        {
+          "event_id": "55c36fc9f398101b1cc78f38",
+          "start_time": 600,
+          "duration": 106,
+          "lang": "en",
+          "title": "The Life of Hall Perry"
+        },
+        {
+          "event_id": "55c36fc921d667630356aca8",
+          "start_time": 720,
+          "duration": 118,
+          "lang": "en",
+          "title": "The Story of Cecelia Smith"
+        },
+        {
+          "event_id": "55c36fc976c6a3196ea106ca",
+          "start_time": 840,
+          "duration": 99,
+          "lang": "en",
+          "title": "The Story of Chen Gaines"
+        },
+        {
+          "event_id": "55c36fc9a874219f4b4c20c0",
+          "start_time": 960,
+          "duration": 103,
+          "lang": "en",
+          "title": "The Mishaps of Glenna Wilder"
+        },
+        {
+          "event_id": "55c36fc9a66bf7dcef75e470",
+          "start_time": 1080,
+          "duration": 105,
+          "lang": "en",
+          "title": "The Life of Ebony Good"
+        },
+        {
+          "event_id": "55c36fc9222be550f540d6e7",
+          "start_time": 1200,
+          "duration": 72,
+          "lang": "en",
+          "title": "The Life of Ware Juarez"
+        },
+        {
+          "event_id": "55c36fc9414ef767e8e72d45",
+          "start_time": 1320,
+          "duration": 99,
+          "lang": "en",
+          "title": "The Betrayal of Baird Jacobs"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  },
+  {
+    "tsp_channel_id": "55c36fc957e42652fdda77bb",
+    "channel_name": "NBC",
+    "channel_number": 289,
+    "category": [
+      "reality",
+      "sports",
+      "reality"
+    ],
+    "description": "Et ut velit ut cupidatat in excepteur duis voluptate aliqua esse. Non culpa aliquip in minim. Enim cupidatat ut eiusmod irure occaecat et voluptate consequat minim ullamco in aliqua aute officia. Sint ex mollit aliqua aliqua consectetur laborum do aliqua duis ad ut minim anim non. Aute pariatur pariatur consectetur adipisicing.\r\n",
+    "icon_image": "/sts-app/assets/img/channels/NBC.png",
+    "streams": [
+      {
+        "status": "AVAILABLE",
+        "out_uri": "/tsu1_stream1.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      },
+      {
+        "status": "FAULT",
+        "out_uri": "/tsu1_stream2.m3u8",
+        "streaming_protocol": "HLS",
+        "bit_rates": [
+          800,
+          400
+        ],
+        "resolution": "640x480"
+      }
+    ],
+    "guide": {
+      "events": [
+        {
+          "event_id": "55c36fc9208db46012216ffb",
+          "start_time": 0,
+          "duration": 120,
+          "lang": "en",
+          "title": "The Life of Tami Whitney"
+        },
+        {
+          "event_id": "55c36fc9f709ba601ae65522",
+          "start_time": 120,
+          "duration": 61,
+          "lang": "en",
+          "title": "The Life of Horn Doyle"
+        },
+        {
+          "event_id": "55c36fc9d65bd197cca9676c",
+          "start_time": 240,
+          "duration": 93,
+          "lang": "en",
+          "title": "The Betrayal of Whitehead Leonard"
+        },
+        {
+          "event_id": "55c36fc95c3305f27d2e160d",
+          "start_time": 360,
+          "duration": 71,
+          "lang": "en",
+          "title": "The Story of Coleman Aguirre"
+        },
+        {
+          "event_id": "55c36fc900f1c56431929db3",
+          "start_time": 480,
+          "duration": 64,
+          "lang": "en",
+          "title": "The Life of Dora Buckner"
+        },
+        {
+          "event_id": "55c36fc9b0fa4fb1446a7e3e",
+          "start_time": 600,
+          "duration": 104,
+          "lang": "en",
+          "title": "The Life of Corrine Powell"
+        },
+        {
+          "event_id": "55c36fc9cc91bfde177e7fe4",
+          "start_time": 720,
+          "duration": 66,
+          "lang": "en",
+          "title": "The Adventures of Patty Pope"
+        },
+        {
+          "event_id": "55c36fc9659c100b418aa267",
+          "start_time": 840,
+          "duration": 60,
+          "lang": "en",
+          "title": "The Life of Sexton Moody"
+        },
+        {
+          "event_id": "55c36fc970c30e1bc4f03e19",
+          "start_time": 960,
+          "duration": 81,
+          "lang": "en",
+          "title": "The Story of Maldonado Chang"
+        },
+        {
+          "event_id": "55c36fc91274f04114c7621b",
+          "start_time": 1080,
+          "duration": 111,
+          "lang": "en",
+          "title": "The Betrayal of Sue Erickson"
+        },
+        {
+          "event_id": "55c36fc9e89ec3535a9065f1",
+          "start_time": 1200,
+          "duration": 96,
+          "lang": "en",
+          "title": "The Adventures of Rosario Yates"
+        },
+        {
+          "event_id": "55c36fc96613fa85a49af7d6",
+          "start_time": 1320,
+          "duration": 60,
+          "lang": "en",
+          "title": "The Story of Katie Kirkland"
+        }
+      ],
+      "curr_prog_desc": "The adventures of a secret agent armed with almost infinite scientific resourcefulness."
+    }
+  }
+]

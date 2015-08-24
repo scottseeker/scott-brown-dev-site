@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+        <title>STS Guide App</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/sts-app/assets/css/reset.css">
+        <link rel="stylesheet" href="/sts-app/assets/css/sts-app.css">
+        <!--[if lt IE 9]>
+            <script src="/js/libs/html5shiv/dist/html5shiv.js"></script>
+        <![endif]-->
+        <script src="/js/libs/jquery/dist/jquery.min.js"></script>
+        <script src="/js/libs/angular/angular.min.js"></script>
+        <script src="/js/libs/angular-scroll/angular-scroll.js"></script>       
+    </head>
+    <body >
+    <!-- outer container -->
+    <div id="outer-container" ng-app="stsApp">
+        <!-- sts guide widget-->
+        <sts-guide></sts-guide>
+        <!--/sts guide widget-->
+    </div>
+    <!--/outer container -->
+
+    
+    <script src="/sts-app/sts-app.module.js"></script>
+    <script src="/sts-app/sts-app.directive.js"></script>
+    <script src="/sts-app/shared/services/guide-data.module.js"></script>
+    <script src="/sts-app/shared/services/guide-data.service.js"></script>
+    <script src="/sts-app/shared/services/guide.module.js"></script>
+    <script src="/sts-app/shared/services/guide.service.js"></script>
+    <script src="/sts-app/components/channels/channel.directive.js"></script>
+    <script src="/sts-app/components/programs/program.directive.js"></script>
+    <script src="/sts-app/components/events/event.directive.js"></script>
+    <script src="/sts-app/components/timebar/timebar.directive.js"></script>
+    <script src="/sts-app/components/timebar/timebar-item.directive.js"></script>
+    
+    </body>
+</html>

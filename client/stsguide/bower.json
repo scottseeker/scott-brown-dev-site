@@ -1,0 +1,32 @@
+{
+  "name": "kap_sts_guide",
+  "version": "1.0.0",
+  "authors": [
+    "Michael Wooten <michael.wooten@us.thalesgroup.com>"
+  ],
+  "description": "The KA Portal Streaming TV Service Guide",
+  "keywords": [
+    "kaportal",
+    "sts",
+    "streaming",
+    "tv",
+    "service",
+    "guide"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-mocks": "~1.4.3",
+    "angular-scroll": "~0.7.1",
+    "html5shiv": "~3.7.3",
+    "jquery": "~2.1.4"
+  }
+}
