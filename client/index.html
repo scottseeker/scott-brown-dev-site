@@ -13,32 +13,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body ng-app="scottbrown" ng-controller="ScottBrownDev as sbdVM">
+<body ng-app="scottbrown" >
 
 <header>
-  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="#featured"><h1>{{sbdVM.name}} <span class="subhead">{{sbdVM.title}}</span></h1></a>
-      </div><!-- navbar-header -->
-      <div class="collapse navbar-collapse" id="collapse">
-        <ul class="nav navbar-nav navbar-right">
-          <li class="active"><a href="#featured">Home</a></li>
-          <li><a href="#summary">Summary</a></li>
-          <li><a href="#skills">Skills</a></li>
-          <li><a href="#experience">Experience</a></li>
-          <!--<li><a href="#testimonials">Testimonials</a></li>-->
-        </ul>        
-      </div><!-- collapse navbar-collapse -->
-    </div><!-- container -->
-  </nav>
-
+  
+  <!--NAVIGATION HEADER-->
+  <sb-navigation></sb-navigation>
+  
+  
   <div class="carousel fade" data-ride="carousel" id="featured">
     
     <ol class="carousel-indicators">
@@ -222,6 +204,8 @@
 </footer>
 
 <script src="js/app.js"></script>
+<script src="js/components/navigation/navigation.module.js"></script>
+<script src="js/components/navigation/navigation.directive.js"></script>
 <script src="js/myscript.js"></script>
 </body>
 </html>
