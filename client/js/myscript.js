@@ -42,19 +42,16 @@ $(function(){
     }
     
     // Add an inbody class to nav 
-    console.log('register scrollspy event');
-    // TODO
-    // REPLACE, NOT WORKING WITH ANGULAR SETUP
-    // $('.navbar-fixed-top').on('activate.bs.scrollspy', function(){
-    //     console.log('activate.bs.scrollspy');
-    //     var hash = $(this).find('li.active a').attr('href');
-    //     if(hash !== '#featured') {
-    //         console.log('adding inbody');
-    //       $('header nav').addClass('inbody'); 
-    //     } else {
-    //       $('header nav').removeClass('inbody');
-    //     }
-    // });
+    $('.navbar-fixed-top').on('activate.bs.scrollspy', function(){
+        console.log('activate.bs.scrollspy');
+        var hash = $(this).find('li.active a').attr('href');
+        if(hash !== '#featured') {
+            console.log('adding inbody');
+          $('header nav').addClass('inbody'); 
+        } else {
+          $('header nav').removeClass('inbody');
+        }
+    });
     
     //Use smooth scrolling when clicking on navigation
     $('.navbar a[href*=#]:not([href=#])').click(function() {
