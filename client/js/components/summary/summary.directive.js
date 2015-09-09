@@ -10,9 +10,7 @@
     function sbSummary(){
         return {
             templateUrl: 'js/components/summary/summary.directive.html'
-            
         }
     }
-    
     
 }());

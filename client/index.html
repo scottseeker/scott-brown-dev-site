@@ -23,58 +23,16 @@
 </header>
 
 <div class="main">
- 
+  <!-- SUMMARY -->
   <sb-summary></sb-summary>
-
-  <div class="page" id="skills">
-    <div class="content container">
-      <h2>Skills</h2>
-      <div class="row">
-        <article class="skill col-md-4 col-sm-6 col-xs-12">
-          <img class="icon" src="images/java.svg" alt="java">
-          <h3>Java Services</h3>
-          <p>Develops back-end SOAP and REST services using JAX-WS/JAX-RS, Spring, OSGi and other technologies.</p>
-        </article>
-
-        <article class="skill col-md-4 col-sm-6 col-xs-12">
-          <img class="icon" src="images/js.svg" alt="javascript">
-          <h3>Web Developer</h3>
-          <p>Creates front-end websites and data driven web applications. AngularJS, Bootstrap, SASS, Node, Npm, Grunt.</p>
-        </article>
-
-        <article class="skill col-md-4 col-sm-6 col-xs-12">
-          <img class="icon" src="images/agile.svg" alt="agile">
-          <h3>Agile</h3>
-          <p>Experienced in Agile through whole Software Development Life Cycle. Scrum, Atlassian suite of tools.</p>
-        </article>
-
-        <article class="skill col-md-4 col-sm-6 col-xs-12">
-          <img class="icon" src="images/teamplayer.svg" alt="teamplayer">
-          <h3>Team Player</h3>
-          <p>Experienced in working with large or small teams to achieve maximum productivity.</p>
-        </article>
-
-        <article class="skill col-md-4 col-sm-6 col-xs-12">
-          <img class="icon" src="images/active.svg" alt="active">
-          <h3>Active</h3>
-          <p>Works full time job and actively develops a social networking site in spare time. Also working on creating web-based children's games.</p>
-        </article>
-
-        <article class="skill col-md-4 col-sm-6 col-xs-12">
-          <img class="icon" src="images/father.svg" alt="family">
-          <h3>Father</h3>
-          <p>Loving father of two girls, Cayce and Rachel. Activities include roller-skating, swimming, and video games.</p>
-        </article>   
-      </div><!-- row -->   
-    </div><!-- content container -->
-  </div><!-- services page -->
-
+  <!-- SKILLS -->
+  <sb-skills></sb-skills>
+  
+  <!-- EXPERIENCE -->
   <div class="page" id="experience">
     <div class="container-fluid">
       <h2 id="ourstaff">Experience</h2>
       <div class="row">
-        
-        
         <div class="doctor col-lg-4">
           <div class="row">
             <div class="photo col-xs-6 col-xs-offset-3 col-sm-3 col-sm-offset-1 col-md-2 col-md-offset-2 col-lg-offset-0 col-lg-4">
@@ -85,7 +43,7 @@
               <p>Mr. Brown is currently working on multiple projects for his current employer Riverside Technical Services.  The projects involve AngularJS, Bootstrap, SASS, and responsive design in the creation of a web-portal offering many services.</p>
             </div><!-- info -->         
           </div> <!-- inner row -->
-        </div> <!-- doctor -->
+        </div> <!-- experience entry -->
 
         <div class="doctor col-lg-4">
           <div class="row">
@@ -97,7 +55,7 @@
               <p>For Modus Operandi Inc, Mr. Brown developed software on the Blade Semantic Wiki product. Development was accomplished utilizing Java, Javascript, HTML5, CSS, RDF, and SPARQL. Unit and end-to-end tests were implemented using Jasmine, Karma, and Protractor.</p>
             </div><!-- info -->       
           </div> <!-- inner row -->
-        </div> <!-- doctor -->
+        </div> <!-- experience entry -->
 
         <div class="doctor col-lg-4">
           <div class="row">
@@ -109,12 +67,12 @@
               <p>Mr. Brown served as the primary Java engineer on the US NDC program. . This work included a distributed warning system using XMPP, Java, C, and Perl. Mr. Brown also designed and developed a US NDC portal utilizing Apache HTTPD, Liferay CE, Apache Tomcat, and MySQL. Custom portlets and themes were created for the portal using JEE, HTML, CSS, Javascript, and XML.</p>
             </div><!-- info -->  
           </div> <!-- inner row -->
-        </div> <!-- doctor -->     
+        </div> <!-- experience entry -->     
         
         
       </div><!-- outer row -->
     </div><!-- container -->
-  </div><!-- staff page -->
+  </div><!-- experience page -->
 
   <!--<div class="page" id="testimonials">-->
   <!--  <div class="container-fluid">-->
@@ -181,6 +139,8 @@
 <script src="js/components/carousel/carousel.directive.js"></script>
 <script src="js/components/summary/summary.module.js"></script>
 <script src="js/components/summary/summary.directive.js"></script>
+<script src="js/components/skills/skills.module.js"></script>
+<script src="js/components/skills/skills.directive.js"></script>
 <!--<script src="js/myscript.js"></script>-->
 </body>
 </html>
