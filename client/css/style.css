@@ -226,22 +226,22 @@ and (max-width: 768px){
   background-image: linear-gradient(to bottom, #E4D29D, #CDAE50);
 }
 
-.doctor {
+.experienceEntry {
   margin: 10px 0;
 }
 
-.doctor h3 {
+.experienceEntry h3 {
   font-weight: 600;
   font-size: 1.2em;
   color: #6F4E36;
   padding-bottom: 5px;
 }
 
-.doctor p {
+.experienceEntry p {
   font-size: .8em;
 }
 
-.doctor img {
+.experienceEntry img {
   width: 100%;
 }
 
