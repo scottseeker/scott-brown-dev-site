@@ -5,7 +5,7 @@
     .directive('sbSkills', sbSkills);
     
     /**
-     * summary direction for scott-brown-dev
+     * skills direction for scott-brown-dev
      */
     function sbSkills(){
         return {
