@@ -4,7 +4,7 @@ Welcome to scott-brown-dev.
 
 ## Under Construction
 
-Goal:  Working towards an angular/bootstrap personal developer site.  This will serve as my resume, and the code will be available here on github.
+Goal:  Working towards an angular/bootstrap personal developer site.
 
 ## Running the server
 
