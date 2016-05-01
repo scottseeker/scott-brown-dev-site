@@ -31,13 +31,6 @@
             var randSlide = Math.floor(Math.random()*slideqty);
             var wheight = $(window).height();// get the height of the window
             
-            
-           
-            
-           
-            
-            
-            
             //adjust height of .fullheight elements
             $(window).resize(function(){
                wheight = $(window).height();// get the height of the window
@@ -68,6 +61,8 @@
             $('.carousel').carousel({
                 pause: false
             });
+            console.log('end carousel directive: vm');
+            console.log(vm);
         }
     }
 }());

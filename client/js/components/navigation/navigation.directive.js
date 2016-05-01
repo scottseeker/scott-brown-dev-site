@@ -11,7 +11,7 @@
         return {
             templateUrl: 'js/components/navigation/navigation.directive.html',
             controller: SbNavigationController,
-            controllerAs: 'vm'
+            controllerAs: 'nav'
         }
     }
     
@@ -21,8 +21,8 @@
      */
     function SbNavigationController() {
         var vm = this;
-        vm.name = "Scott Brown",
-        vm.title = "Developer"
+        vm.name = "Scott Brown";
+        vm.title = "Developer";
         
         activate();
         
@@ -49,7 +49,7 @@
             
             // Add an inbody class to nav 
             console.log('register scrollspy event');
-            // TODO
+            // TO DO
             // REPLACE, NOT WORKING WITH ANGULAR SETUP
             $('.navbar-fixed-top').on('activate.bs.scrollspy', function(){
                 console.log('activate.bs.scrollspy');
@@ -80,7 +80,8 @@
             
          
           
-            
+            console.log('end navigation directive: vm');
+            console.log(vm);
         }
     }
     

@@ -17,7 +17,9 @@ gulp.task('concat', function() {
     .pipe(gulp.dest('./dist/'));
 });
 
-
+// minify javascript files
+ 
+// uglify javascript files
 
 // compile sass
 gulp.task('sass', function(){
@@ -31,11 +33,6 @@ gulp.task('sass', function(){
     .pipe(gulp.dest('./client/css'))
     .pipe(gulp.dest('./dist/css'));
 });
-
-// minify javascript files
-
- 
-// uglify javascript files
 
 // create auto-inject index.html file
 
