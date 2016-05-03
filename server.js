@@ -18,12 +18,16 @@ var express = require('express');
 //
 var router = express();
 var server = http.createServer(router);
+var dirPath = 'dist';
+var mode = process.argv[2] != null ? process.argv[2] : dirPath;
 
-
-router.use(express.static(path.resolve(__dirname, 'client')));
+if(mode == 'dev') {
+    dirPath = 'client';
+}
+router.use(express.static(path.resolve(__dirname, dirPath)));
 
 
 server.listen(process.env.PORT || 3000, process.env.IP || "0.0.0.0", function(){
   var addr = server.address();
-  console.log("Chat server listening at", addr.address + ":" + addr.port);
+  console.log("Web server listening at", addr.address + ":" + addr.port);
 });

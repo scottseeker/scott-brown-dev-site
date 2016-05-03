@@ -7,7 +7,7 @@ var minify = require('gulp-minify');
 var inject = require('gulp-inject');
 var rename = require('gulp-rename');
 var clean = require('gulp-clean');
-
+var runSequence = require('run-sequence');
 
 // default
 gulp.task('default', function(){
@@ -15,7 +15,10 @@ gulp.task('default', function(){
 
 gulp.task('dev', ['sass']);
 
-gulp.task('prod',['prod-js', 'sass']);
+gulp.task('prod',['prod-js', 'sass'], function() {
+    console.log('production build >>');
+    runSequence('prod-index', 'prod-rename-index');
+});
 
 gulp.task('prod-js', function() {
     return gulp.src(['./client/js/app.js', './client/js/components/**/*.js'])
@@ -62,7 +65,7 @@ gulp.task('sass', function(){
 });
 
 // create auto-inject index.html file
-gulp.task('index', function () {
+gulp.task('prod-index', function () {
   var target = gulp.src('./client/index-inject.html');
   // It's not necessary to read the files (will speed up things), we're only after their paths: 
   var sources = gulp.src(['./js/scott-brown-dev.js', './css/**/*.css'], {read: false, cwd: __dirname + '/dist'});
@@ -76,6 +79,6 @@ gulp.task('index', function () {
 gulp.task('prod-rename-index', function() {
    return gulp.src('./dist/index-inject.html')
        .pipe(clean())
-       .pipe(rename("index.htm"))
+       .pipe(rename("index.html"))
        .pipe(gulp.dest('./dist'));
 });
