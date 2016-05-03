@@ -8,19 +8,20 @@ var minify = require('gulp-minify');
 
 // default
 gulp.task('default', function(){
-  console.log("I have configured a gulpfile");
-  
 });
 
-gulp.task('dev',['dev-js', 'sass']);
+gulp.task('dev', ['sass']);
 
-gulp.task('dev-js', function() {
+gulp.task('prod',['prod-js', 'sass']);
+
+gulp.task('prod-js', function() {
     return gulp.src(['./client/js/app.js', './client/js/components/**/*.js'])
     .pipe(concat('scott-brown-dev.js'))
     .pipe(minify({
         ext: {
             src:'-debug.js',
-            min:'.js'
+            min:'.js',
+            mangle: true
         }
         }))
     .pipe(gulp.dest('./dist/'));
@@ -45,18 +46,14 @@ gulp.task('minify-js', function() {
         .pipe(gulp.dest('./dist/'));
 });
 
- 
 // uglify javascript files
 
 // compile sass
 gulp.task('sass', function(){
+   
   return gulp.src('./client/scss/**/*.scss')
-    .pipe(sass().on('error', sass.logError))
-    // NEED TO MAKE TICKET TO INVESTIGATE
-    // .pipe(autoprefixer({
-    //         browsers: ['last 2 versions'],
-    //         cascade: false
-    //     }))
+    .pipe(sass())    
+    .pipe(autoprefixer('last 2 versions')) // TO DO: this does not seem to be doing anything, investigate
     .pipe(gulp.dest('./client/css'))
     .pipe(gulp.dest('./dist/css'));
 });

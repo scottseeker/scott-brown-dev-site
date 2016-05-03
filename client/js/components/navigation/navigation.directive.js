@@ -5,7 +5,7 @@
     .directive('sbNavigation', sbNavigation);
     
     /**
-     * navigation direction for scott-brown-dev
+     * navigation directive for scott-brown-dev
      */
     function sbNavigation(){
         return {

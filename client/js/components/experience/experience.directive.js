@@ -5,7 +5,7 @@
     .directive('sbExperience', sbExperience);
     
     /**
-     * experience direction for scott-brown-dev
+     * experience directive for scott-brown-dev
      */
     function sbExperience(){
         return {

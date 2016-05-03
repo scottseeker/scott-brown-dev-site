@@ -5,7 +5,7 @@
     .directive('sbFooter', sbFooter);
     
     /**
-     * skills direction for scott-brown-dev
+     * footer directive for scott-brown-dev
      */
     function sbFooter(){
         return {

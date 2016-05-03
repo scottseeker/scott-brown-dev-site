@@ -5,7 +5,7 @@
     .directive('sbSummary', sbSummary);
     
     /**
-     * summary direction for scott-brown-dev
+     * summary directive for scott-brown-dev
      */
     function sbSummary(){
         return {
