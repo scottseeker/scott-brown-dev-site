@@ -5,10 +5,25 @@ var autoprefixer = require('gulp-autoprefixer');
 var minifycss = require('gulp-minify-css');
 var minify = require('gulp-minify');
 
+
 // default
 gulp.task('default', function(){
   console.log("I have configured a gulpfile");
   
+});
+
+gulp.task('dev',['dev-js', 'sass']);
+
+gulp.task('dev-js', function() {
+    return gulp.src(['./client/js/app.js', './client/js/components/**/*.js'])
+    .pipe(concat('scott-brown-dev.js'))
+    .pipe(minify({
+        ext: {
+            src:'-debug.js',
+            min:'.js'
+        }
+        }))
+    .pipe(gulp.dest('./dist/'));
 });
 
 // concatenate javascript files together
