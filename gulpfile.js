@@ -4,6 +4,9 @@ var sass = require('gulp-sass');
 var autoprefixer = require('gulp-autoprefixer');
 var minifycss = require('gulp-minify-css');
 var minify = require('gulp-minify');
+var inject = require('gulp-inject');
+var rename = require('gulp-rename');
+var clean = require('gulp-clean');
 
 
 // default
@@ -24,14 +27,14 @@ gulp.task('prod-js', function() {
             mangle: true
         }
         }))
-    .pipe(gulp.dest('./dist/'));
+    .pipe(gulp.dest('./dist/js/'));
 });
 
 // concatenate javascript files together
 gulp.task('concat-js', function() {
-  return gulp.src(['./client/js/app.js', './client/js/components/**/*.js'])
+  return gulp.src(['./client/js/**/*.js'])
     .pipe(concat('scott-brown-dev.js'))
-    .pipe(gulp.dest('./dist/'));
+    .pipe(gulp.dest('./dist/js/'));
 });
 
 // minify javascript files
@@ -43,7 +46,7 @@ gulp.task('minify-js', function() {
             min:'.js'
         }
         }))
-        .pipe(gulp.dest('./dist/'));
+        .pipe(gulp.dest('./dist/js/'));
 });
 
 // uglify javascript files
@@ -59,4 +62,20 @@ gulp.task('sass', function(){
 });
 
 // create auto-inject index.html file
+gulp.task('index', function () {
+  var target = gulp.src('./client/index-inject.html');
+  // It's not necessary to read the files (will speed up things), we're only after their paths: 
+  var sources = gulp.src(['./js/scott-brown-dev.js', './css/**/*.css'], {read: false, cwd: __dirname + '/dist'});
+ 
+  return target.pipe(inject(sources, {
+      ignorePath: ''
+  }))
+    .pipe(gulp.dest('./dist/'));    
+});
 
+gulp.task('prod-rename-index', function() {
+   return gulp.src('./dist/index-inject.html')
+       .pipe(clean())
+       .pipe(rename("index.htm"))
+       .pipe(gulp.dest('./dist'));
+});
